@@ -1,0 +1,2 @@
+s3.dualstack.cn-north-1.amazonaws.com.cn
+s3.dualstack.cn-northwest-1.amazonaws.com.cn
