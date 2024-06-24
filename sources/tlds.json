@@ -1,3 +1,4 @@
 {
-    "cisco-top-1m-tld": "http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m-TLD.csv.zip"
+    "cisco-top-1m-tld": "http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m-TLD.csv.zip",
+    "public-suffix-list":"https://raw.githubusercontent.com/publicsuffix/list/master/public_suffix_list.dat"
 }

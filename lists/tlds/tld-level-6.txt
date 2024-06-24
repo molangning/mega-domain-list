@@ -1,2 +1,6 @@
+001.test.code-builder-stg.platform.salesforce.com
+s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
+s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
+s3-website.dualstack.cn-north-1.amazonaws.com.cn
 s3.dualstack.cn-north-1.amazonaws.com.cn
 s3.dualstack.cn-northwest-1.amazonaws.com.cn
