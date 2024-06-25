@@ -1,7 +1,5 @@
 # mega-domain-list
-Aggregated domain list from various sources. 
-
-TLDs are included 
+A large collection of domains
 
 ## Tracked list
 

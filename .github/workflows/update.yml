@@ -1,0 +1,21 @@
+name: Domain List Updater
+
+on:
+  schedule:
+  - cron: '0 8 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update lists
+        run: ./run-all.sh
+          
+      - name: Commit files if changed
+        run: ./commit.sh ${{ secrets.GITHUB_TOKEN }} "lists/"

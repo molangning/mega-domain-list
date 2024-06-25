@@ -167,6 +167,7 @@ def parse_content_deposition(headers):
 
     return False
 
+
 def parse_location(headers, url):
     if "Location" not in headers.keys():
         return False
@@ -178,12 +179,15 @@ def parse_location(headers, url):
 
     return "://".join([url_scheme, url.split("/", 1)[0]]) + headers["Location"]
 
+
 def download_source(tld_name, download_url, output_root, headers={}):
     compressed_file = False
     file_name = download_url.rsplit("/", 1)[1]
 
     if file_name.count(".") == 0:
-        file_name = parse_content_deposition(wrapped_requests(download_url, head=True, headers=headers))
+        file_name = parse_content_deposition(
+            wrapped_requests(download_url, head=True, headers=headers)
+        )
 
     if file_name.endswith(".zip"):
         compressed_file = True
@@ -211,16 +215,18 @@ def download_source(tld_name, download_url, output_root, headers={}):
 
     return True
 
-def chunk_list(to_chunk, chunk_size): 
-    for i in range(0, len(to_chunk), chunk_size):  
-        yield to_chunk[i:i+chunk_size] 
+
+def chunk_list(to_chunk, chunk_size):
+    for i in range(0, len(to_chunk), chunk_size):
+        yield to_chunk[i : i + chunk_size]
+
 
 def patch_sources(sources):
     download_url_format = "https://tranco-list.eu/download/{}/full"
-    
+
     if "tranco-list-full" not in sources:
         return sources
-    
+
     tranco_urls = json.load(open(os.path.join("sources", "tranco-list-urls.json")))
 
     for url in tranco_urls:
@@ -228,3 +234,14 @@ def patch_sources(sources):
         file_id = new_url.rsplit("/", 2)[1]
         sources["tranco-list-full"] = download_url_format.format(file_id)
         return sources
+
+
+def find_offset(fields):
+    offset = 0
+
+    for field in fields:
+        if field.strip('"').count(".") > 0:
+            return offset
+        offset += 1
+
+    return None

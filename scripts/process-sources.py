@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from multiprocessing import Pool
-from shared_lib import chunk_list
+from shared_lib import chunk_list, find_offset
 
 import json
 import os
@@ -20,15 +20,6 @@ CHUNK_SIZE = 100000
 subdomains = set()
 root_domains = set()
 
-def find_offset(fields):
-    offset = 0
-
-    for field in fields:
-        if field.strip('"').count(".") > 0:
-            return offset 
-        offset += 1
-
-    return None
 
 def process_domain(domain_list):
     t1 = time.time()
@@ -51,19 +42,23 @@ def process_domain(domain_list):
         else:
             results[0].add(".".join(split_domain[-2:]))
             results[1].update(split_domain[:-2])
-    
+
     results.append(round(time.time() - t1, 3))
     return results
+
 
 tasks_start_time = time.time()
 
 for dir_file in os.listdir(OUTPUT_ROOT):
+    filepath = os.path.join(OUTPUT_ROOT, dir_file)
+
+    if not os.path.isfile(filepath):
+        continue
+
     filename, ext = dir_file.rsplit(".", 1)
 
     if filename not in SOURCES.keys():
         continue
-
-    filepath = os.path.join(OUTPUT_ROOT, dir_file)
 
     try:
         f = open(filepath)
@@ -96,7 +91,9 @@ for dir_file in os.listdir(OUTPUT_ROOT):
         fields = line.split(",")
         tasks.append(fields[offset].strip('"\n'))
 
-    print(f"[+] Extracted {len(tasks)} domains in {round(time.time() - start_time, 3)} seconds")
+    print(
+        f"[+] Extracted {len(tasks)} domains in {round(time.time() - start_time, 3)} seconds"
+    )
 
     pool = Pool()
     batch_counter = 1
@@ -111,23 +108,31 @@ for dir_file in os.listdir(OUTPUT_ROOT):
 
     print(f"[+] Starting batch processing with batch size {CHUNK_SIZE}")
     start_time = time.time()
-    
+
     for result in pool.imap(process_domain, chunk_list(tasks, CHUNK_SIZE)):
-        if root_domains:
+        if result[0]:
             root_domains.update(result[0])
-        if subdomains:
+
+        if result[1]:
             subdomains.update(result[1])
 
-        print(f"[+] Processed batch {batch_counter}/{total_batches} in {result[2]} seconds")
-        batch_counter+=1
-    
+        print(
+            f"[+] Processed batch {batch_counter}/{total_batches} in {result[2]} seconds"
+        )
+        batch_counter += 1
+
     pool.close()
     pool.join()
 
-    print(f"[+] Finished processing task {filename} in {round(time.time() - start_time, 3)} seconds")
-    open("domains.txt", "w").write("\n".join(sorted(root_domains)))
-    open("subdomains.txt", "w").write("\n".join(sorted(subdomains)))
+    print(
+        f"[+] Finished processing task {filename} in {round(time.time() - start_time, 3)} seconds"
+    )
+
+open(os.path.join(OUTPUT_ROOT, "domains-without-subdomains.txt"), "w").write(
+    "\n".join(sorted(root_domains))
+)
+open(os.path.join(OUTPUT_ROOT, "subdomains.txt"), "w").write(
+    "\n".join(sorted(subdomains))
+)
 
 print(f"[+] Finished all tasks in {round(time.time() - tasks_start_time, 3)} seconds")
-
-

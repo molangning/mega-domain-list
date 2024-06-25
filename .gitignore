@@ -1,6 +1,10 @@
-# Removed pulled data
+# Ignore pulled data
 *.csv
 *.dat
+
+# Ignore generated data
+domains.txt
+domains-without-subdomains.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
