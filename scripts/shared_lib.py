@@ -2,12 +2,13 @@
 
 from zipfile import ZipFile
 
+import json
 import os
 import requests
 import time
 
 
-def wrapped_requests(url, headers={}, json=False, head=False):
+def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False):
     for i in range(1, 4):
         try:
             if head:
@@ -15,7 +16,7 @@ def wrapped_requests(url, headers={}, json=False, head=False):
             else:
                 r = requests.get(url, headers=headers, timeout=60)
 
-            if r.status_code == 200:
+            if r.status_code == 200 or ignore_200:
                 # print("[+] Got %s successfully!"%(url))
                 break
 
@@ -56,11 +57,12 @@ def download_file(url, fp, headers={}):
 
             if r.status_code != 200:
                 print("[!] Getting %s failed(%i/3)" % (url, i))
+                time.sleep(0.5)
                 continue
 
             if i == 3:
                 print("[!] Failed to get %s." % (url))
-                exit(2)
+                return False
 
             for chunk in r.iter_content(chunk_size=4096):
                 fp.write(chunk)
@@ -150,7 +152,7 @@ def process_plain_line(tld):
 
 def parse_content_deposition(headers):
     if "Content-Disposition" not in headers.keys():
-        return
+        return False
 
     for field in headers["Content-Disposition"].split(";"):
         if "=" not in field:
@@ -163,15 +165,25 @@ def parse_content_deposition(headers):
 
         return value
 
-    return ""
+    return False
 
+def parse_location(headers, url):
+    if "Location" not in headers.keys():
+        return False
 
-def download_source(tld_name, download_url, output_root):
+    url_scheme = "https"
+
+    if "://" in url:
+        url_scheme, url = url.split("://")
+
+    return "://".join([url_scheme, url.split("/", 1)[0]]) + headers["Location"]
+
+def download_source(tld_name, download_url, output_root, headers={}):
     compressed_file = False
     file_name = download_url.rsplit("/", 1)[1]
 
     if file_name.count(".") == 0:
-        file_name = parse_content_deposition(wrapped_requests(download_url, head=True))
+        file_name = parse_content_deposition(wrapped_requests(download_url, head=True, headers=headers))
 
     if file_name.endswith(".zip"):
         compressed_file = True
@@ -179,7 +191,12 @@ def download_source(tld_name, download_url, output_root):
     temp_file_name = file_name + ".part"
     temp_file_path = os.path.join(output_root, temp_file_name)
 
-    download_file(download_url, open(temp_file_path, "wb"))
+    download_status = download_file(download_url, open(temp_file_path, "wb"), headers)
+    if not download_status:
+        print("[!] Failed to get file")
+        os.remove(temp_file_path)
+        return False
+
     print(f"[+] Downloaded {tld_name}")
 
     if compressed_file:
@@ -191,3 +208,23 @@ def download_source(tld_name, download_url, output_root):
         file_name = f"{tld_name}.{file_name.rsplit('.', 1)[1]}"
         output_file_path = os.path.join(output_root, file_name)
         os.rename(temp_file_path, output_file_path)
+
+    return True
+
+def chunk_list(to_chunk, chunk_size): 
+    for i in range(0, len(to_chunk), chunk_size):  
+        yield to_chunk[i:i+chunk_size] 
+
+def patch_sources(sources):
+    download_url_format = "https://tranco-list.eu/download/{}/full"
+    
+    if "tranco-list-full" not in sources:
+        return sources
+    
+    tranco_urls = json.load(open(os.path.join("sources", "tranco-list-urls.json")))
+
+    for url in tranco_urls:
+        new_url = parse_location(wrapped_requests(url, head=True, ignore_200=True), url)
+        file_id = new_url.rsplit("/", 2)[1]
+        sources["tranco-list-full"] = download_url_format.format(file_id)
+        return sources
