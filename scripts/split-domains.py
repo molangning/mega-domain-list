@@ -12,14 +12,12 @@ DOMAIN_LIST = open(os.path.join("lists", "domains", "domains.txt")).readlines()
 counter = 1
 
 for to_remove in os.listdir(os.path.join(OUTPUT_ROOT, "domains-without-subdomains")):
-    os.remove(
-        os.path.join(os.path.join(OUTPUT_ROOT, "domains-without-subdomains"), to_remove)
-    )
+    os.remove(os.path.join(OUTPUT_ROOT, "domains-without-subdomains", to_remove))
 
 for to_remove in os.listdir(os.path.join(OUTPUT_ROOT, "domains")):
-    os.remove(os.path.join(OUTPUT_ROOT, to_remove))
+    os.remove(os.path.join(OUTPUT_ROOT, "domains", to_remove))
 
-for chunk in chunk_list(DOMAIN_LIST, 5000000):
+for chunk in chunk_list(DOMAIN_LIST, 4000000):
     open(
         os.path.join(
             OUTPUT_ROOT,
@@ -32,7 +30,7 @@ for chunk in chunk_list(DOMAIN_LIST, 5000000):
     counter += 1
 
 counter = 1
-for chunk in chunk_list(WITHOUT_SUBDOMAIN_LIST, 5000000):
+for chunk in chunk_list(WITHOUT_SUBDOMAIN_LIST, 4000000):
     open(
         os.path.join(
             OUTPUT_ROOT,
