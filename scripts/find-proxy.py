@@ -41,7 +41,7 @@ for proxy in remote_proxy_list:
 for to_test in NEED_PROXY:
     url = SOURCES[to_test]
 
-    for candidate in random.sample(proxy_list, 50):
+    for candidate in random.sample(proxy_list, len(proxy_list)):
         proxies = {
             'http': candidate,
             'https': candidate,
