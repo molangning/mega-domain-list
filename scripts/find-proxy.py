@@ -6,9 +6,9 @@ import json
 import os
 import random
 
-import concurrent.futures
-
-PROXY_LIST_URL = "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies.json"
+PROXY_LIST_URL = (
+    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies.json"
+)
 
 SOURCES_PATH = os.path.join("sources", "sources.json")
 SOURCES = json.load(open(SOURCES_PATH))
@@ -43,14 +43,22 @@ for to_test in NEED_PROXY:
 
     for candidate in random.sample(proxy_list, len(proxy_list)):
         proxies = {
-            'http': candidate,
-            'https': candidate,
+            "http": candidate,
+            "https": candidate,
         }
-        
-        if not wrapped_requests("https://checkip.amazonaws.com", proxies=proxies, timeout=5, quiet=True, retries=1):
+
+        if not wrapped_requests(
+            "https://checkip.amazonaws.com",
+            proxies=proxies,
+            timeout=5,
+            quiet=True,
+            retries=1,
+        ):
             continue
 
-        r = wrapped_requests(url, proxies=proxies, timeout=5, quiet=True, head=True, retries=1)
+        r = wrapped_requests(
+            url, proxies=proxies, timeout=5, quiet=True, head=True, retries=1
+        )
 
         if r:
             working_proxies.append(candidate)
@@ -63,4 +71,8 @@ for to_test in NEED_PROXY:
 
     break
 
-json.dump(working_proxies, open(os.path.join("sources", "working-proxies.json"), "w"), indent=4)
+json.dump(
+    working_proxies,
+    open(os.path.join("sources", "working-proxies.json"), "w"),
+    indent=4,
+)

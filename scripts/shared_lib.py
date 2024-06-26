@@ -8,12 +8,24 @@ import requests
 import time
 
 
-def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False, proxies={}, quiet=False, timeout=60, retries=3):
+def wrapped_requests(
+    url,
+    headers={},
+    json=False,
+    head=False,
+    ignore_200=False,
+    proxies={},
+    quiet=False,
+    timeout=60,
+    retries=3,
+):
     r = None
     for i in range(1, 4):
         try:
             if head:
-                r = requests.head(url, headers=headers, timeout=timeout, proxies=proxies)
+                r = requests.head(
+                    url, headers=headers, timeout=timeout, proxies=proxies
+                )
             else:
                 r = requests.get(url, headers=headers, timeout=timeout, proxies=proxies)
 
@@ -47,11 +59,14 @@ def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False, 
     if json is True:
         try:
             return r.json()
-        except:
+        except (
+            requests.exceptions.JSONDecodeError,
+            requests.exceptions.InvalidJSONError,
+        ):
             print("[+] Converting response to dictionary failed")
             return
     else:
-        if head == True:
+        if head is True:
             return r.headers
 
         return r.text
@@ -60,7 +75,9 @@ def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False, 
 def download_file(url, fp, headers={}, proxies={}):
     for i in range(1, 4):
         try:
-            r = requests.get(url, headers=headers, stream=True, timeout=60, proxies=proxies)
+            r = requests.get(
+                url, headers=headers, stream=True, timeout=60, proxies=proxies
+            )
 
             if r.status_code != 200:
                 print("[!] Getting %s failed(%i/3)" % (url, i))
@@ -197,10 +214,12 @@ def download_source(tld_name, download_url, output_root, headers={}, proxy=[]):
         if len(proxy) > 0:
             for i in proxy:
                 proxies = {
-                    'http': i,
-                    'https': i,
+                    "http": i,
+                    "https": i,
                 }
-                resp_headers = wrapped_requests(download_url, head=True, headers=headers, proxies=proxies)
+                resp_headers = wrapped_requests(
+                    download_url, head=True, headers=headers, proxies=proxies
+                )
                 if resp_headers:
                     break
         else:
@@ -215,14 +234,18 @@ def download_source(tld_name, download_url, output_root, headers={}, proxy=[]):
     if len(proxy) > 0:
         for i in proxy:
             proxies = {
-                'http': i,
-                'https': i,
+                "http": i,
+                "https": i,
             }
-            download_status = download_file(download_url, open(temp_file_path, "wb"), headers, proxies)
+            download_status = download_file(
+                download_url, open(temp_file_path, "wb"), headers, proxies
+            )
             if download_status:
                 break
     else:
-        download_status = download_file(download_url, open(temp_file_path, "wb"), headers)
+        download_status = download_file(
+            download_url, open(temp_file_path, "wb"), headers
+        )
 
     if not download_status:
         print("[!] Failed to get file")

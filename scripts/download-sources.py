@@ -26,10 +26,13 @@ headers = {
 
 for source_name, download_url in SOURCES.items():
     if source_name in NEED_PROXIES:
-        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers, WORKING_PROXIES)
+        download_status = download_source(
+            source_name, download_url, OUTPUT_ROOT, headers, WORKING_PROXIES
+        )
     else:
-        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers)
+        download_status = download_source(
+            source_name, download_url, OUTPUT_ROOT, headers
+        )
 
     if not download_status:
-
         print(f"[!] Skipping {source_name} as it is unreachable")

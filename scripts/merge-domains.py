@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-from multiprocessing import Pool
-from shared_lib import chunk_list, find_offset
+from shared_lib import find_offset
 
 import json
 import os
