@@ -5,6 +5,7 @@
 # Ignore generated data
 domains.txt
 domains-without-subdomains.txt
+working-proxies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

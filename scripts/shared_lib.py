@@ -8,34 +8,41 @@ import requests
 import time
 
 
-def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False):
+def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False, proxies={}, quiet=False, timeout=60, retries=3):
+    r = None
     for i in range(1, 4):
         try:
             if head:
-                r = requests.head(url, headers=headers, timeout=60)
+                r = requests.head(url, headers=headers, timeout=timeout, proxies=proxies)
             else:
-                r = requests.get(url, headers=headers, timeout=60)
+                r = requests.get(url, headers=headers, timeout=timeout, proxies=proxies)
 
             if r.status_code == 200 or ignore_200:
                 # print("[+] Got %s successfully!"%(url))
                 break
 
-            if i == 3:
-                print("[!] Failed to get %s." % (url))
+            if i >= retries:
+                if not quiet:
+                    print("[!] Failed to get %s." % (url))
                 return None
 
             print("[!] Getting %s failed(%i/3)" % (url, i))
             time.sleep(0.5)
 
         except requests.exceptions.Timeout:
-            print("[!] Timed out getting %s (%i/3)" % (url, i))
+            if not quiet:
+                print("[!] Timed out getting %s (%i/3)" % (url, i))
 
         except requests.exceptions.SSLError:
             return None
 
         except Exception as e:
-            print(f"[!] Got exception {e}")
+            if not quiet:
+                print(f"[!] Got exception {e}")
             return None
+
+    if not r:
+        return None
 
     if json is True:
         try:
@@ -50,10 +57,10 @@ def wrapped_requests(url, headers={}, json=False, head=False, ignore_200=False):
         return r.text
 
 
-def download_file(url, fp, headers={}):
+def download_file(url, fp, headers={}, proxies={}):
     for i in range(1, 4):
         try:
-            r = requests.get(url, headers=headers, stream=True, timeout=60)
+            r = requests.get(url, headers=headers, stream=True, timeout=60, proxies=proxies)
 
             if r.status_code != 200:
                 print("[!] Getting %s failed(%i/3)" % (url, i))
@@ -180,13 +187,21 @@ def parse_location(headers, url):
     return "://".join([url_scheme, url.split("/", 1)[0]]) + headers["Location"]
 
 
-def download_source(tld_name, download_url, output_root, headers={}):
+def download_source(tld_name, download_url, output_root, headers={}, proxy=""):
+    proxies = {}
+    
+    if proxy:
+        proxies = {
+            'http': proxy,
+            'https': proxy,
+        }
+
     compressed_file = False
     file_name = download_url.rsplit("/", 1)[1]
 
     if file_name.count(".") == 0:
         file_name = parse_content_deposition(
-            wrapped_requests(download_url, head=True, headers=headers)
+            wrapped_requests(download_url, head=True, headers=headers, proxies=proxies)
         )
 
     if file_name.endswith(".zip"):
@@ -195,7 +210,7 @@ def download_source(tld_name, download_url, output_root, headers={}):
     temp_file_name = file_name + ".part"
     temp_file_path = os.path.join(output_root, temp_file_name)
 
-    download_status = download_file(download_url, open(temp_file_path, "wb"), headers)
+    download_status = download_file(download_url, open(temp_file_path, "wb"), headers, proxies)
     if not download_status:
         print("[!] Failed to get file")
         os.remove(temp_file_path)

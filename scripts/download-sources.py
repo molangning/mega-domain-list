@@ -8,6 +8,12 @@ import os
 SOURCES_PATH = os.path.join("sources", "sources.json")
 SOURCES = patch_sources(json.load(open(SOURCES_PATH)))
 
+NEED_PROXIES_PATH = os.path.join("sources", "need-proxy.json")
+NEED_PROXIES = json.load(open(NEED_PROXIES_PATH))
+
+WORKING_PROXIES_PATH = os.path.join("sources", "working-proxies.json")
+WORKING_PROXIES = json.load(open(WORKING_PROXIES_PATH))
+
 OUTPUT_ROOT = os.path.join("lists", "domains")
 
 headers = {
@@ -18,8 +24,12 @@ headers = {
     "Cache-Control": "max-age=0",
 }
 
-for tld_name, download_url in SOURCES.items():
-    download_status = download_source(tld_name, download_url, OUTPUT_ROOT, headers)
+for source_name, download_url in SOURCES.items():
+    if source_name in NEED_PROXIES:
+        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers, WORKING_PROXIES[0])
+    else:
+        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers)
 
     if not download_status:
-        print(f"[!] Skipping {tld_name} as it is unreachable")
+
+        print(f"[!] Skipping {source_name} as it is unreachable")

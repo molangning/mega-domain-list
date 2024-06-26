@@ -3,6 +3,7 @@
 set -euxo pipefail
 export PYTHONUNBUFFERED=1
 
+./scripts/find-proxy.py
 ./scripts/download-tlds.py
 ./scripts/download-sources.py
 ./scripts/process-tlds.py
