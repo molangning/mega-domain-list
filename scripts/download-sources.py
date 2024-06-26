@@ -26,7 +26,7 @@ headers = {
 
 for source_name, download_url in SOURCES.items():
     if source_name in NEED_PROXIES:
-        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers, WORKING_PROXIES[0])
+        download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers, WORKING_PROXIES)
     else:
         download_status = download_source(source_name, download_url, OUTPUT_ROOT, headers)
 

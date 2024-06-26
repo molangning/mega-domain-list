@@ -187,30 +187,43 @@ def parse_location(headers, url):
     return "://".join([url_scheme, url.split("/", 1)[0]]) + headers["Location"]
 
 
-def download_source(tld_name, download_url, output_root, headers={}, proxy=""):
+def download_source(tld_name, download_url, output_root, headers={}, proxy=[]):
     proxies = {}
-    
-    if proxy:
-        proxies = {
-            'http': proxy,
-            'https': proxy,
-        }
 
     compressed_file = False
     file_name = download_url.rsplit("/", 1)[1]
 
     if file_name.count(".") == 0:
-        file_name = parse_content_deposition(
-            wrapped_requests(download_url, head=True, headers=headers, proxies=proxies)
-        )
+        if len(proxy) > 0:
+            for i in proxy:
+                proxies = {
+                    'http': i,
+                    'https': i,
+                }
+                resp_headers = wrapped_requests(download_url, head=True, headers=headers, proxies=proxies)
+                if resp_headers:
+                    break
+        else:
+            resp_headers = wrapped_requests(download_url, head=True, headers=headers)
+            file_name = parse_content_deposition(resp_headers)
 
     if file_name.endswith(".zip"):
         compressed_file = True
 
     temp_file_name = file_name + ".part"
     temp_file_path = os.path.join(output_root, temp_file_name)
+    if len(proxy) > 0:
+        for i in proxy:
+            proxies = {
+                'http': i,
+                'https': i,
+            }
+            download_status = download_file(download_url, open(temp_file_path, "wb"), headers, proxies)
+            if download_status:
+                break
+    else:
+        download_status = download_file(download_url, open(temp_file_path, "wb"), headers)
 
-    download_status = download_file(download_url, open(temp_file_path, "wb"), headers, proxies)
     if not download_status:
         print("[!] Failed to get file")
         os.remove(temp_file_path)
