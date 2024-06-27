@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from shared_lib import wrapped_requests
+from multiprocessing.pool import ThreadPool
 
 import json
 import os
@@ -16,6 +17,31 @@ SOURCES = json.load(open(SOURCES_PATH))
 
 NEED_PROXY_PATH = os.path.join("sources", "need-proxy.json")
 NEED_PROXY = json.load(open(NEED_PROXY_PATH))
+
+
+def check_proxy(candidate):
+    proxies = {
+        "http": candidate,
+        "https": candidate,
+    }
+
+    if not wrapped_requests(
+        "https://checkip.amazonaws.com",
+        proxies=proxies,
+        timeout=5,
+        quiet=True,
+        retries=1,
+    ):
+        return False
+
+    r = wrapped_requests(
+        url, proxies=proxies, timeout=5, quiet=True, head=True, retries=1
+    )
+
+    if r:
+        print("[+] Found a working proxy")
+        return candidate
+
 
 proxy_list = []
 working_proxies = []
@@ -44,35 +70,15 @@ for proxy in remote_proxy_list:
 for to_test in NEED_PROXY:
     url = SOURCES[to_test]
 
-    for candidate in random.sample(proxy_list, len(proxy_list)):
-        proxies = {
-            "http": candidate,
-            "https": candidate,
-        }
+    pool = ThreadPool(16)
 
-        if not wrapped_requests(
-            "https://checkip.amazonaws.com",
-            proxies=proxies,
-            timeout=5,
-            quiet=True,
-            retries=1,
-        ):
-            continue
+    for result in pool.imap(check_proxy, random.sample(proxy_list, len(proxy_list))):
+        if result:
+            working_proxies.append(result)
 
-        r = wrapped_requests(
-            url, proxies=proxies, timeout=5, quiet=True, head=True, retries=1
-        )
-
-        if r:
-            working_proxies.append(candidate)
-            print(f"[+] Found a working proxy (total {len(working_proxies)})")
-
-        if len(working_proxies) > 2:
+        if len(working_proxies) > 4:
             break
-    else:
-        continue
 
-    break
 
 json.dump(
     working_proxies,
