@@ -1,7 +1,7 @@
 {
+    "cloudflare-top-1m": "https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1293&top=1000000",
     "builtwith-top-1m":"https://builtwith.com/dl/builtwith-top1m.zip",
     "cisco-top-1m": "http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip",
     "majestic-top-1m": "https://downloads.majestic.com/majestic_million.csv",
-    "domcorp-top-10m": "https://www.domcop.com/files/top/top10milliondomains.csv.zip",
-    "tranco-list-full": "WILL-BE-PATCHED-BY-SCRIPT"
+    "domcorp-top-10m": "https://www.domcop.com/files/top/top10milliondomains.csv.zip"
 }

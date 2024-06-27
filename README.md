@@ -18,8 +18,8 @@ The subdomain list can be used for subdomain enumeration, but it has not been op
 - [x] https://www.domcop.com/files/top/top10milliondomains.csv.zip
 - [x] https://builtwith.com/top-sites
 - [x] https://tranco-list.eu/
+- [x] https://radar.cloudflare.com/domains
 - [ ] https://statvoo.com/dl/top-1million-sites.csv.zip (Broken?)
-- [ ] https://radar.cloudflare.com/domains (Needs api key)
 
 ### TLD list
 

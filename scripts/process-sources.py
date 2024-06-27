@@ -76,6 +76,9 @@ for dir_file in os.listdir(OUTPUT_ROOT):
     for line in f:
         fields = line.split(",")
 
+        if len(fields) == 1:
+            break
+
         if not fields[0].strip('"\n').isnumeric():
             continue
 

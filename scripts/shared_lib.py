@@ -184,10 +184,10 @@ def parse_content_deposition(headers):
 
         field, value = field.split("=")
 
-        if not field.startswith("filename"):
+        if not field.strip().startswith("filename"):
             continue
 
-        return value
+        return value.strip("'\"")
 
     return False
 
