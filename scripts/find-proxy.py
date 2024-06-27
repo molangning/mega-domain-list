@@ -5,6 +5,7 @@ from shared_lib import wrapped_requests
 import json
 import os
 import random
+import time
 
 PROXY_LIST_URL = (
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies.json"
@@ -18,6 +19,8 @@ NEED_PROXY = json.load(open(NEED_PROXY_PATH))
 
 proxy_list = []
 working_proxies = []
+
+start_time = time.time()
 
 print("[+] Loading proxy list from remote")
 remote_proxy_list = wrapped_requests(PROXY_LIST_URL, json=True)
@@ -76,3 +79,5 @@ json.dump(
     open(os.path.join("sources", "working-proxies.json"), "w"),
     indent=4,
 )
+
+print(f"[+] Finished in {round(time.time()-start_time, 2)}")
