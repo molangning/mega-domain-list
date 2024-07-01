@@ -935,6 +935,7 @@ certmgr.org
 cesena-forli.it
 cesenaforli.it
 cf-ipfs.com
+cfolks.pl
 cgkm1ebi9cmneinkpi06ts5bsksujfmayfsuccfc0u56laq.mm
 cgwp8h45sttimwamo.np
 ch.it
@@ -1564,6 +1565,7 @@ cpserver.com
 cq.cn
 cr.it
 cr.ua
+craft.me
 crafting.xyz
 cranky.jp
 crap.jp
@@ -2940,6 +2942,12 @@ hashbang.sh
 hasura-app.io
 hasura.app
 hasvik.no
+hateblo.jp
+hatenablog.com
+hatenablog.jp
+hatenadiary.com
+hatenadiary.jp
+hatenadiary.org
 hatinh.vn
 hattfjelldal.no
 haugesund.no
