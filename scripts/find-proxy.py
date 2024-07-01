@@ -86,4 +86,4 @@ json.dump(
     indent=4,
 )
 
-print(f"[+] Finished in {round(time.time()-start_time, 2)}")
+print(f"[+] Finished in {round(time.time()-start_time, 2)} seconds")
