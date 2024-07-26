@@ -1,2 +1,1 @@
-pdx.001.test.code-builder-stg.platform.salesforce.com
-ro2zetka.001.test.code-builder-stg.platform.salesforce.com
+tozetka.001.test.code-builder-stg.platform.salesforce.com
