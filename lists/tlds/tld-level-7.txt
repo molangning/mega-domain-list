@@ -1,1 +1,9 @@
-tozetka.001.test.code-builder-stg.platform.salesforce.com
+adelivery.001.test.code-builder-stg.platform.salesforce.com
+rgzetkadelivery.001.test.code-builder-stg.platform.salesforce.com
+ro7zetkadelivery.001.test.code-builder-stg.platform.salesforce.com
+roretkadelivery.001.test.code-builder-stg.platform.salesforce.com
+rouetkacompany.001.test.code-builder-stg.platform.salesforce.com
+rozedkacloud.001.test.code-builder-stg.platform.salesforce.com
+rozetkacomp2ny.001.test.code-builder-stg.platform.salesforce.com
+rozetkadelivgry.001.test.code-builder-stg.platform.salesforce.com
+rozetskacloud.001.test.code-builder-stg.platform.salesforce.com
