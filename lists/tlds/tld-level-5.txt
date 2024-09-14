@@ -1,5 +1,6 @@
 app.os.stg.fedoraproject.org
 c0.ap-southeast-1.airflow.amazonaws.com
+c0.eu-central-1.airflow.amazonaws.com
 c0.eu-west-1.airflow.amazonaws.com
 c0.us-east-1.airflow.amazonaws.com
 c0.us-east-2.airflow.amazonaws.com
@@ -18,13 +19,11 @@ c11.eu-west-1.airflow.amazonaws.com
 c11.us-east-1.airflow.amazonaws.com
 c11.us-west-2.airflow.amazonaws.com
 c12.eu-west-1.airflow.amazonaws.com
-c12.us-west-2.airflow.amazonaws.com
+c12.us-east-1.airflow.amazonaws.com
 c13.eu-west-1.airflow.amazonaws.com
 c13.us-east-1.airflow.amazonaws.com
-c13.us-west-2.airflow.amazonaws.com
-c14.eu-west-1.airflow.amazonaws.com
 c14.us-east-1.airflow.amazonaws.com
-c15.us-east-1.airflow.amazonaws.com
+c15.eu-west-1.airflow.amazonaws.com
 c15.us-west-2.airflow.amazonaws.com
 c16.eu-west-1.airflow.amazonaws.com
 c16.us-east-1.airflow.amazonaws.com
@@ -36,10 +35,9 @@ c18.us-east-1.airflow.amazonaws.com
 c18.us-west-2.airflow.amazonaws.com
 c19.eu-west-1.airflow.amazonaws.com
 c19.us-east-1.airflow.amazonaws.com
-c19.us-west-2.airflow.amazonaws.com
-c2.eu-central-1.airflow.amazonaws.com
-c2.eu-west-1.airflow.amazonaws.com
+c2.ap-southeast-1.airflow.amazonaws.com
 c2.eu-west-2.airflow.amazonaws.com
+c2.us-east-1.airflow.amazonaws.com
 c2.us-west-2.airflow.amazonaws.com
 c20.eu-west-1.airflow.amazonaws.com
 c20.us-east-1.airflow.amazonaws.com
@@ -49,7 +47,9 @@ c22.eu-west-1.airflow.amazonaws.com
 c22.us-east-1.airflow.amazonaws.com
 c22.us-west-2.airflow.amazonaws.com
 c23.eu-west-1.airflow.amazonaws.com
+c23.us-east-1.airflow.amazonaws.com
 c23.us-west-2.airflow.amazonaws.com
+c24.eu-west-1.airflow.amazonaws.com
 c25.eu-west-1.airflow.amazonaws.com
 c25.us-east-1.airflow.amazonaws.com
 c25.us-west-2.airflow.amazonaws.com
@@ -58,6 +58,7 @@ c27.us-east-1.airflow.amazonaws.com
 c27.us-west-2.airflow.amazonaws.com
 c28.us-east-1.airflow.amazonaws.com
 c28.us-west-2.airflow.amazonaws.com
+c29.us-east-1.airflow.amazonaws.com
 c29.us-west-2.airflow.amazonaws.com
 c3.eu-central-1.airflow.amazonaws.com
 c3.eu-west-1.airflow.amazonaws.com
@@ -70,15 +71,14 @@ c31.us-east-1.airflow.amazonaws.com
 c31.us-west-2.airflow.amazonaws.com
 c32.us-east-1.airflow.amazonaws.com
 c32.us-west-2.airflow.amazonaws.com
+c33.us-east-1.airflow.amazonaws.com
 c33.us-west-2.airflow.amazonaws.com
 c34.us-east-1.airflow.amazonaws.com
 c35.us-east-1.airflow.amazonaws.com
 c36.us-east-1.airflow.amazonaws.com
-c37.us-east-1.airflow.amazonaws.com
 c38.us-east-1.airflow.amazonaws.com
 c39.us-east-1.airflow.amazonaws.com
 c4.ap-southeast-1.airflow.amazonaws.com
-c4.eu-central-1.airflow.amazonaws.com
 c4.eu-west-1.airflow.amazonaws.com
 c4.us-east-1.airflow.amazonaws.com
 c4.us-east-2.airflow.amazonaws.com
@@ -88,7 +88,6 @@ c41.us-east-1.airflow.amazonaws.com
 c42.us-east-1.airflow.amazonaws.com
 c43.us-east-1.airflow.amazonaws.com
 c44.us-east-1.airflow.amazonaws.com
-c45.us-east-1.airflow.amazonaws.com
 c46.us-east-1.airflow.amazonaws.com
 c48.us-east-1.airflow.amazonaws.com
 c49.us-east-1.airflow.amazonaws.com
@@ -98,6 +97,7 @@ c5.us-east-1.airflow.amazonaws.com
 c5.us-east-2.airflow.amazonaws.com
 c5.us-west-2.airflow.amazonaws.com
 c50.us-east-1.airflow.amazonaws.com
+c51.us-east-1.airflow.amazonaws.com
 c52.us-east-1.airflow.amazonaws.com
 c53.us-east-1.airflow.amazonaws.com
 c54.us-east-1.airflow.amazonaws.com
@@ -112,7 +112,6 @@ c6.eu-west-1.airflow.amazonaws.com
 c6.us-east-1.airflow.amazonaws.com
 c6.us-east-2.airflow.amazonaws.com
 c6.us-west-2.airflow.amazonaws.com
-c60.us-east-1.airflow.amazonaws.com
 c61.us-east-1.airflow.amazonaws.com
 c62.us-east-1.airflow.amazonaws.com
 c63.us-east-1.airflow.amazonaws.com
@@ -132,7 +131,6 @@ c71.us-east-1.airflow.amazonaws.com
 c73.us-east-1.airflow.amazonaws.com
 c74.us-east-1.airflow.amazonaws.com
 c75.us-east-1.airflow.amazonaws.com
-c76.us-east-1.airflow.amazonaws.com
 c8.ap-southeast-1.airflow.amazonaws.com
 c8.eu-central-1.airflow.amazonaws.com
 c8.eu-west-1.airflow.amazonaws.com
@@ -140,7 +138,7 @@ c8.eu-west-2.airflow.amazonaws.com
 c8.us-east-1.airflow.amazonaws.com
 c8.us-west-2.airflow.amazonaws.com
 c9.ap-southeast-1.airflow.amazonaws.com
-c9.eu-central-1.airflow.amazonaws.com
+c9.eu-west-1.airflow.amazonaws.com
 c9.eu-west-2.airflow.amazonaws.com
 c9.us-east-1.airflow.amazonaws.com
 c9.us-east-2.airflow.amazonaws.com
