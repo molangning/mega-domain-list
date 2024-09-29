@@ -1,3 +1,1 @@
-frozetkacloud.001.test.code-builder-stg.platform.salesforce.com
-roze6tkacompany.001.test.code-builder-stg.platform.salesforce.com
-rozetkadeliveryy.001.test.code-builder-stg.platform.salesforce.com
+pdx.001.test.code-builder-stg.platform.salesforce.com
