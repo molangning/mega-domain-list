@@ -285,6 +285,7 @@ ap-southeast-3.sagemaker.aws
 ap-southeast-4.amazonaws.com
 ap-southeast-4.amazoncognito.com
 ap-southeast-4.sagemaker.aws
+ap-southeast-5.amazonaws.com
 ap-sydney-1.oraclecloudapps.com
 ap-tokyo-1.oraclecloudapps.com
 ap.gov.br
