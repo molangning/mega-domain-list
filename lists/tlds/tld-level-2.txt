@@ -503,8 +503,6 @@ bamod.pg
 ban.kh
 ban.mm
 bangkokair.pg
-banzai.cloud
-banzaicloud.io
 bar.pro
 bardu.no
 bari.it
@@ -2813,7 +2811,6 @@ hozi.jm
 hqjfywoix2znbayix23ndy-ix3loaarni6jfc85ncmtlol91zgacvta.ck
 hra.health
 hrsn.dev
-hrsn.net
 hs-heilbronn.de
 hs.kr
 hs.run
