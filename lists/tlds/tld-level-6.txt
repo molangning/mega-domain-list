@@ -1,5 +1,4 @@
 001.test.code-builder-stg.platform.salesforce.com
-c0.cn-north-1.airflow.amazonaws.com.cn
 c1.cn-north-1.airflow.amazonaws.com.cn
 c7.cn-north-1.airflow.amazonaws.com.cn
 s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
