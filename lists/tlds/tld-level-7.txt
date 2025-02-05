@@ -1,1 +1,1 @@
-pdx.001.test.code-builder-stg.platform.salesforce.com
+iad.001.test.code-builder-stg.platform.salesforce.com
