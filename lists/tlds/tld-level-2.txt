@@ -4400,6 +4400,8 @@ luster.no
 luthor.ck
 lutsk.ua
 luu.pg
+luyani.app
+luyani.net
 lv.er
 lv.mm
 lv.ua
@@ -5476,6 +5478,7 @@ o9.bd
 o9.kh
 ob6.fk
 obj.ag
+objectstorage.ch
 obl.ong
 obninsk.su
 observablehq.cloud
