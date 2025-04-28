@@ -1,16 +1,3 @@
-admin-iad.001.test.code-builder-stg.platform.salesforce.com
-back-iad.001.test.code-builder-stg.platform.salesforce.com
-beta-iad.001.test.code-builder-stg.platform.salesforce.com
-dev-pdx.001.test.code-builder-stg.platform.salesforce.com
-doc.001.test.code-builder-stg.platform.salesforce.com
-docpdx.001.test.code-builder-stg.platform.salesforce.com
-final-iad.001.test.code-builder-stg.platform.salesforce.com
-finaliad.001.test.code-builder-stg.platform.salesforce.com
-finalpdx.001.test.code-builder-stg.platform.salesforce.com
 iad.001.test.code-builder-stg.platform.salesforce.com
 pdx.001.test.code-builder-stg.platform.salesforce.com
-priv.001.test.code-builder-stg.platform.salesforce.com
-production-pdx.001.test.code-builder-stg.platform.salesforce.com
-qa-pdx.001.test.code-builder-stg.platform.salesforce.com
-releaseiad.001.test.code-builder-stg.platform.salesforce.com
-sitpdx.001.test.code-builder-stg.platform.salesforce.com
+prod-pdx.001.test.code-builder-stg.platform.salesforce.com
