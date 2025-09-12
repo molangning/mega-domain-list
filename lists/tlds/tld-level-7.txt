@@ -1,1 +1,1 @@
-c8.airflow.cn-northwest-1.on.amazonwebservices.com.cn
+c0.airflow.cn-northwest-1.on.amazonwebservices.com.cn
