@@ -1,1 +1,1 @@
-fra.001.test.code-builder-stg.platform.salesforce.com
+c0.airflow.cn-north-1.on.amazonwebservices.com.cn
