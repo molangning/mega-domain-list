@@ -2,7 +2,6 @@
 airflow.cn-north-1.on.amazonwebservices.com.cn
 airflow.cn-northwest-1.on.amazonwebservices.com.cn
 c06zf5jmpif4.rds.cn-north-1.amazonaws.com.cn
-c0pqf5x6u0lb.rds.cn-northwest-1.amazonaws.com.cn
 c1.cn-north-1.airflow.amazonaws.com.cn
 c1gwpvgjsedh.rds.cn-northwest-1.amazonaws.com.cn
 c3u9yod1t1v8.rds.cn-northwest-1.amazonaws.com.cn
@@ -12,14 +11,12 @@ c5dnzx9fetvn.rds.cn-northwest-1.amazonaws.com.cn
 c6euv9umrxjk.rds.cn-northwest-1.amazonaws.com.cn
 c6guyi5o1uoq.rds.cn-north-1.amazonaws.com.cn
 c6hpebme1hct.rds.cn-northwest-1.amazonaws.com.cn
-c7.cn-north-1.airflow.amazonaws.com.cn
 c73e4dwozhpc.rds.cn-north-1.amazonaws.com.cn
 c8xerdsbr0rv.rds.cn-north-1.amazonaws.com.cn
 c93n9gdsqscj.rds.cn-north-1.amazonaws.com.cn
 c9mqms42c0ig.rds.cn-northwest-1.amazonaws.com.cn
 c9nihazpuslw.rds.cn-northwest-1.amazonaws.com.cn
 ca0yru9uqhzn.rds.cn-northwest-1.amazonaws.com.cn
-cahrayk6yc1i.rds.cn-north-1.amazonaws.com.cn
 cak6s4pdbjso.rds.cn-north-1.amazonaws.com.cn
 cb48c4g6wpyx.rds.cn-northwest-1.amazonaws.com.cn
 cbpwg139wtyl.rds.cn-northwest-1.amazonaws.com.cn
@@ -42,7 +39,6 @@ cluster-ckw6tqdsjj41.rds.cn-north-1.amazonaws.com.cn
 cluster-cnynwtpmykd2.rds.cn-northwest-1.amazonaws.com.cn
 cluster-conv0qjtbggt.rds.cn-north-1.amazonaws.com.cn
 cluster-cpbqstaaluqf.rds.cn-north-1.amazonaws.com.cn
-cluster-cpu3q596meej.rds.cn-north-1.amazonaws.com.cn
 cluster-cwvlj7rdhqzm.rds.cn-north-1.amazonaws.com.cn
 cluster-cz0anjtc1pjt.rds.cn-northwest-1.amazonaws.com.cn
 cluster-czed0mx8lqiw.rds.cn-north-1.amazonaws.com.cn
@@ -54,7 +50,6 @@ co1ykswjorlg.rds.cn-northwest-1.amazonaws.com.cn
 co8hmomnj775.rds.cn-northwest-1.amazonaws.com.cn
 conv0qjtbggt.rds.cn-north-1.amazonaws.com.cn
 coo4nip2sffm.rds.cn-north-1.amazonaws.com.cn
-cp0wg40eyseb.rds.cn-northwest-1.amazonaws.com.cn
 cpbqstaaluqf.rds.cn-north-1.amazonaws.com.cn
 cpu3q596meej.rds.cn-north-1.amazonaws.com.cn
 cs9ciblsvi1j.rds.cn-north-1.amazonaws.com.cn
