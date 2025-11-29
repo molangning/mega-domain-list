@@ -1,7 +1,6 @@
 001.test.code-builder-stg.platform.salesforce.com
 airflow.cn-north-1.on.amazonwebservices.com.cn
 airflow.cn-northwest-1.on.amazonwebservices.com.cn
-c0.cn-northwest-1.airflow.amazonaws.com.cn
 c06zf5jmpif4.rds.cn-north-1.amazonaws.com.cn
 c0pqf5x6u0lb.rds.cn-northwest-1.amazonaws.com.cn
 c1.cn-north-1.airflow.amazonaws.com.cn
@@ -38,6 +37,7 @@ cf0sggwgapkj.rds.cn-northwest-1.amazonaws.com.cn
 cftc1rptybbm.rds.cn-north-1.amazonaws.com.cn
 cfz9xs78dzqq.rds.cn-northwest-1.amazonaws.com.cn
 cgps1ihrqaia.rds.cn-northwest-1.amazonaws.com.cn
+chaqaoir30no.rds.cn-north-1.amazonaws.com.cn
 chgouwq22gms.rds.cn-northwest-1.amazonaws.com.cn
 ci2bnvew0uuz.rds.cn-northwest-1.amazonaws.com.cn
 cikvd4k59zay.rds.cn-north-1.amazonaws.com.cn
@@ -45,8 +45,6 @@ ciukgyawbo47.rds.cn-north-1.amazonaws.com.cn
 cjtkgzsqclzh.rds.cn-northwest-1.amazonaws.com.cn
 cjz7ulo3eun8.rds.cn-north-1.amazonaws.com.cn
 cl6f2l9t8wnd.rds.cn-northwest-1.amazonaws.com.cn
-cluster-cclnqaqxbwuz.rds.cn-north-1.amazonaws.com.cn
-cluster-cikvd4k59zay.rds.cn-north-1.amazonaws.com.cn
 cluster-ciukgyawbo47.rds.cn-north-1.amazonaws.com.cn
 cluster-ckw6tqdsjj41.rds.cn-north-1.amazonaws.com.cn
 cluster-cnynwtpmykd2.rds.cn-northwest-1.amazonaws.com.cn
@@ -72,16 +70,17 @@ cpeww2uuo1y7.rds.cn-north-1.amazonaws.com.cn
 cpu3q596meej.rds.cn-north-1.amazonaws.com.cn
 cqemxcbqui1p.rds.cn-northwest-1.amazonaws.com.cn
 crag5sximeqt.rds.cn-northwest-1.amazonaws.com.cn
-crh3qx22ustk.rds.cn-north-1.amazonaws.com.cn
 cs9ciblsvi1j.rds.cn-north-1.amazonaws.com.cn
 csjw4xs5iofv.rds.cn-north-1.amazonaws.com.cn
 ctp3s9vnmfvm.rds.cn-northwest-1.amazonaws.com.cn
 ctqnsalugkyi.rds.cn-northwest-1.amazonaws.com.cn
 cu99ajoncziq.rds.cn-north-1.amazonaws.com.cn
 cufompwcucob.rds.cn-north-1.amazonaws.com.cn
+cuigsjv8fzty.rds.cn-north-1.amazonaws.com.cn
 cv42xuue9v3r.rds.cn-northwest-1.amazonaws.com.cn
 cvae5a4knoeu.rds.cn-northwest-1.amazonaws.com.cn
 cwa2w1gsy2xy.rds.cn-northwest-1.amazonaws.com.cn
+cwco0iznh8iv.rds.cn-north-1.amazonaws.com.cn
 cwhurymkolzj.rds.cn-north-1.amazonaws.com.cn
 cwjkdxs6lls2.rds.cn-northwest-1.amazonaws.com.cn
 cwktfbtwxpxi.rds.cn-north-1.amazonaws.com.cn
