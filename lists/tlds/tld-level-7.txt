@@ -1,6 +1,3 @@
 bridgewellnaturals.001.test.code-builder-stg.platform.salesforce.com
 bridgewellnaturals.airflow.cn-north-1.on.amazonwebservices.com.cn
 bridgewellnaturals.airflow.cn-northwest-1.on.amazonwebservices.com.cn
-gypsumsales.001.test.code-builder-stg.platform.salesforce.com
-gypsumsales.airflow.cn-north-1.on.amazonwebservices.com.cn
-gypsumsales.airflow.cn-northwest-1.on.amazonwebservices.com.cn
