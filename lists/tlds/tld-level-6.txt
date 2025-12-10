@@ -3,7 +3,6 @@ airflow.cn-north-1.on.amazonwebservices.com.cn
 airflow.cn-northwest-1.on.amazonwebservices.com.cn
 c06zf5jmpif4.rds.cn-north-1.amazonaws.com.cn
 c0pqf5x6u0lb.rds.cn-northwest-1.amazonaws.com.cn
-c1.cn-north-1.airflow.amazonaws.com.cn
 c1gwpvgjsedh.rds.cn-northwest-1.amazonaws.com.cn
 c3c8u80u4kbk.rds.cn-north-1.amazonaws.com.cn
 c4.cn-northwest-1.airflow.amazonaws.com.cn
@@ -13,6 +12,7 @@ c5dnzx9fetvn.rds.cn-northwest-1.amazonaws.com.cn
 c5mk2i2kuxiv.rds.cn-north-1.amazonaws.com.cn
 c6euv9umrxjk.rds.cn-northwest-1.amazonaws.com.cn
 c6guyi5o1uoq.rds.cn-north-1.amazonaws.com.cn
+c7.cn-north-1.airflow.amazonaws.com.cn
 c7.cn-northwest-1.airflow.amazonaws.com.cn
 c73e4dwozhpc.rds.cn-north-1.amazonaws.com.cn
 c8xerdsbr0rv.rds.cn-north-1.amazonaws.com.cn
@@ -26,6 +26,7 @@ cahrayk6yc1i.rds.cn-north-1.amazonaws.com.cn
 cak6s4pdbjso.rds.cn-north-1.amazonaws.com.cn
 cb48c4g6wpyx.rds.cn-northwest-1.amazonaws.com.cn
 cbpwg139wtyl.rds.cn-northwest-1.amazonaws.com.cn
+ccdpb4tx5x2v.rds.cn-north-1.amazonaws.com.cn
 cclnqaqxbwuz.rds.cn-north-1.amazonaws.com.cn
 cd6kt9y2qv0v.rds.cn-northwest-1.amazonaws.com.cn
 cedlx4mkbxdw.rds.cn-northwest-1.amazonaws.com.cn
@@ -40,6 +41,8 @@ cikvd4k59zay.rds.cn-north-1.amazonaws.com.cn
 ciukgyawbo47.rds.cn-north-1.amazonaws.com.cn
 cjtkgzsqclzh.rds.cn-northwest-1.amazonaws.com.cn
 cjz7ulo3eun8.rds.cn-north-1.amazonaws.com.cn
+cl6f2l9t8wnd.rds.cn-northwest-1.amazonaws.com.cn
+cluster-c1gwpvgjsedh.rds.cn-northwest-1.amazonaws.com.cn
 cluster-c3c8u80u4kbk.rds.cn-north-1.amazonaws.com.cn
 cluster-c91wjoh9od6a.rds.cn-north-1.amazonaws.com.cn
 cluster-cgqagpvpbyo3.rds.cn-northwest-1.amazonaws.com.cn
@@ -69,6 +72,7 @@ cqemxcbqui1p.rds.cn-northwest-1.amazonaws.com.cn
 crag5sximeqt.rds.cn-northwest-1.amazonaws.com.cn
 cs9ciblsvi1j.rds.cn-north-1.amazonaws.com.cn
 csjw4xs5iofv.rds.cn-north-1.amazonaws.com.cn
+ctihj9fssp8q.rds.cn-north-1.amazonaws.com.cn
 ctp3s9vnmfvm.rds.cn-northwest-1.amazonaws.com.cn
 ctqnsalugkyi.rds.cn-northwest-1.amazonaws.com.cn
 cu99ajoncziq.rds.cn-north-1.amazonaws.com.cn
