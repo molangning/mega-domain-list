@@ -1,1 +1,8 @@
-iad.001.test.code-builder-stg.platform.salesforce.com
+c0.airflow.cn-north-1.on.amazonwebservices.com.cn
+c1.airflow.cn-north-1.on.amazonwebservices.com.cn
+c2.airflow.cn-north-1.on.amazonwebservices.com.cn
+c4.airflow.cn-northwest-1.on.amazonwebservices.com.cn
+c6.airflow.cn-north-1.on.amazonwebservices.com.cn
+c8.airflow.cn-north-1.on.amazonwebservices.com.cn
+c8.airflow.cn-northwest-1.on.amazonwebservices.com.cn
+c9.airflow.cn-north-1.on.amazonwebservices.com.cn
