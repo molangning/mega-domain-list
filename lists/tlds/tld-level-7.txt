@@ -1,1 +1,2 @@
+c4.airflow.cn-north-1.on.amazonwebservices.com.cn
 c5.airflow.cn-north-1.on.amazonwebservices.com.cn
