@@ -53,6 +53,7 @@
 180r.com
 18c.jm
 191.mm
+1cooldns.com
 1doi.kh
 1kapp.com
 1stcommandreinsurance.fk
@@ -877,6 +878,7 @@ bukhara.su
 bulsan-sudtirol.it
 bulsan-suedtirol.it
 bulsan.it
+bumbleshrimp.com
 busan.kr
 busch-jaeger.mm
 busch-jaeger.np
@@ -1502,6 +1504,7 @@ ddns.me
 ddns.net
 ddnsfree.com
 ddnsgeek.com
+ddnsguru.com
 ddnsking.com
 ddnss.de
 ddnss.org
@@ -1682,6 +1685,9 @@ dyndns1.de
 dynns.com
 dynserv.org
 dynu.net
+dynuddns.com
+dynuddns.net
+dynuhosting.com
 dynv6.net
 dyroy.no
 e.bg
@@ -4023,6 +4029,7 @@ myspreadshop.nl
 myspreadshop.no
 myspreadshop.pl
 myspreadshop.se
+mysynology.net
 mytabit.com
 mythic-beasts.com
 mytis.ru
@@ -4537,6 +4544,7 @@ opbxwdxlo.mm
 opencraft.hosting
 opensocial.site
 operaunite.com
+opik.net
 opoczno.pl
 opole.pl
 oppdal.no
@@ -4875,6 +4883,7 @@ pinoko.jp
 pisa.it
 pistoia.it
 pisz.pl
+pivohosting.com
 pix-a1-hosting.jm
 pix-a1-hosting.kh
 pixolino.com
@@ -5251,6 +5260,7 @@ routingthecloud.net
 routingthecloud.org
 rovigo.it
 rovno.ua
+roxa.org
 royal-commission.uk
 royken.no
 royrvik.no
@@ -5657,6 +5667,7 @@ sponsorship.er
 sport.eg
 sport.hu
 sprites.app
+spryt.net
 spt.np
 spydeberg.no
 sq.mm
@@ -6409,6 +6420,7 @@ windows.np
 windows.pg
 windsurf.app
 windsurf.build
+wiredbladehosting.com
 wireles.fk
 withgoogle.com
 withyoutube.com
