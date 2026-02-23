@@ -588,6 +588,7 @@ beebyte.io
 beebyteapp.io
 beep.pl
 beget.app
+begetcdn.cloud
 begitu.kh
 beiarn.no
 bel.tr
@@ -1523,6 +1524,8 @@ drammen.no
 drangedal.no
 drayddns.com
 dreamhosters.com
+drive-platform.com
+drive-platform.io
 drobak.no
 drr.ac
 dscloud.biz
