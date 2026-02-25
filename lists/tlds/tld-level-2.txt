@@ -2853,6 +2853,7 @@ internet-dns.de
 internet.in
 internet.mm
 intl.tn
+intouch.email
 intranet.fk
 io.in
 io.kr
@@ -3721,6 +3722,9 @@ myaddr.io
 myaddr.tools
 myamaze.net
 myasustor.com
+mybox.company
+mybox.me
+mybox.page
 mycloudnas.com
 mydatto.com
 mydatto.net
