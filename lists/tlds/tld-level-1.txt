@@ -13,8 +13,10 @@ accenture
 accountant
 accountants
 aco
+active
 actor
 ad
+adac
 ads
 adult
 ae
@@ -22,6 +24,7 @@ aeg
 aero
 aetna
 af
+afamilycompany
 afl
 africa
 ag
@@ -29,11 +32,13 @@ agakhan
 agency
 ai
 aig
+aigo
 airbus
 airforce
 airtel
 akdn
 al
+alfaromeo
 alibaba
 alipay
 allfinanz
@@ -84,6 +89,7 @@ auspost
 author
 auto
 autos
+avianca
 aw
 aws
 ax
@@ -94,6 +100,7 @@ ba
 baby
 baidu
 banamex
+bananarepublic
 band
 bank
 bar
@@ -117,6 +124,7 @@ be
 beats
 beauty
 beer
+bentley
 berlin
 best
 bestbuy
@@ -136,6 +144,7 @@ biz
 bj
 black
 blackfriday
+blanco
 blockbuster
 blog
 bloomberg
@@ -144,6 +153,7 @@ bm
 bms
 bmw
 bn
+bnl
 bnpparibas
 bo
 boats
@@ -154,6 +164,7 @@ bond
 boo
 book
 booking
+boots
 bosch
 bostik
 boston
@@ -169,6 +180,7 @@ brother
 brussels
 bs
 bt
+budapest
 build
 builders
 business
@@ -188,6 +200,7 @@ calvinklein
 cam
 camera
 camp
+cancerresearch
 canon
 capetown
 capital
@@ -199,8 +212,10 @@ care
 career
 careers
 cars
+cartier
 casa
 case
+caseih
 cash
 casino
 cat
@@ -209,8 +224,10 @@ catholic
 cba
 cbn
 cbre
+cbs
 cc
 cd
+ceb
 center
 ceo
 cern
@@ -228,6 +245,7 @@ cheap
 chintai
 christmas
 chrome
+chrysler
 church
 ci
 cipriani
@@ -237,6 +255,7 @@ citadel
 citi
 citic
 city
+cityeats
 ck
 cl
 claims
@@ -257,6 +276,7 @@ coffee
 college
 cologne
 com
+comcast
 commbank
 community
 company
@@ -269,6 +289,7 @@ consulting
 contact
 contractors
 cooking
+cookingchannel
 cool
 coop
 corsica
@@ -286,6 +307,7 @@ crown
 crs
 cruise
 cruises
+csc
 cu
 cuisinella
 cv
@@ -295,6 +317,7 @@ cy
 cymru
 cyou
 cz
+dabur
 dad
 dance
 data
@@ -336,13 +359,18 @@ dnp
 do
 docs
 doctor
+dodge
 dog
+doha
 domains
 dot
 download
 drive
 dtv
 dubai
+duck
+dunlop
+duns
 dupont
 durban
 dvag
@@ -359,10 +387,12 @@ ee
 eg
 email
 emerck
+emerson
 energy
 engineer
 engineering
 enterprises
+epost
 epson
 equipment
 er
@@ -371,11 +401,14 @@ erni
 es
 esq
 estate
+esurance
 et
+etisalat
 eu
 eurovision
 eus
 events
+everbank
 exchange
 expert
 exposed
@@ -397,6 +430,7 @@ feedback
 ferrari
 ferrero
 fi
+fiat
 fidelity
 fido
 film
@@ -422,6 +456,7 @@ fm
 fo
 foo
 food
+foodnetwork
 football
 ford
 forex
@@ -434,9 +469,11 @@ free
 fresenius
 frl
 frogans
+frontdoor
 frontier
 ftr
 fujitsu
+fujixerox
 fun
 fund
 furniture
@@ -471,6 +508,7 @@ gifts
 gives
 giving
 gl
+glade
 glass
 gle
 global
@@ -485,6 +523,8 @@ godaddy
 gold
 goldpoint
 golf
+goo
+goodhands
 goodyear
 goog
 google
@@ -504,6 +544,7 @@ group
 gs
 gt
 gu
+guardian
 gucci
 guge
 guide
@@ -524,6 +565,7 @@ help
 helsinki
 here
 hermes
+hgtv
 hiphop
 hisamitsu
 hitachi
@@ -540,12 +582,14 @@ homegoods
 homes
 homesense
 honda
+honeywell
 horse
 hospital
 host
 hosting
 hot
 hotel
+hoteles
 hotels
 hotmail
 house
@@ -553,6 +597,7 @@ how
 hr
 hsbc
 ht
+htc
 hu
 hughes
 hyatt
@@ -583,6 +628,7 @@ institute
 insurance
 insure
 int
+intel
 international
 intuit
 investments
@@ -598,14 +644,18 @@ istanbul
 it
 itau
 itv
+iveco
+iwc
 jaguar
 java
 jcb
+jcp
 je
 jeep
 jetzt
 jewelry
 jio
+jlc
 jll
 jm
 jmp
@@ -624,6 +674,7 @@ kaufen
 kddi
 ke
 kerryhotels
+kerrylogistics
 kerryproperties
 kfh
 kg
@@ -632,6 +683,7 @@ ki
 kia
 kids
 kim
+kinder
 kindle
 kitchen
 kiwi
@@ -655,6 +707,8 @@ la
 lacaixa
 lamborghini
 lamer
+lancaster
+lancia
 land
 landrover
 lanxess
@@ -685,7 +739,9 @@ lilly
 limited
 limo
 lincoln
+linde
 link
+lipsy
 live
 living
 lk
@@ -695,6 +751,7 @@ loan
 loans
 locker
 locus
+loft
 lol
 london
 lotte
@@ -709,11 +766,13 @@ ltd
 ltda
 lu
 lundbeck
+lupin
 luxe
 luxury
 lv
 ly
 ma
+macys
 madrid
 maif
 maison
@@ -727,9 +786,11 @@ marketing
 markets
 marriott
 marshalls
+maserati
 mattel
 mba
 mc
+mcd
 mckinsey
 md
 me
@@ -741,8 +802,10 @@ meme
 memorial
 men
 menu
+meo
 merck
 merckmsd
+metlife
 mg
 mh
 miami
@@ -759,9 +822,11 @@ mls
 mm
 mma
 mn
+mnet
 mo
 mobi
 mobile
+mobily
 moda
 moe
 moi
@@ -769,6 +834,7 @@ mom
 monash
 money
 monster
+mopar
 mormon
 mortgage
 moscow
@@ -776,6 +842,7 @@ moto
 motorcycles
 mov
 movie
+movistar
 mp
 mq
 mr
@@ -787,6 +854,7 @@ mtr
 mu
 museum
 music
+mutual
 mv
 mw
 mx
@@ -796,6 +864,8 @@ na
 nab
 nagoya
 name
+nationwide
+natura
 navy
 nba
 nc
@@ -807,6 +877,7 @@ netflix
 network
 neustar
 new
+newholland
 news
 next
 nextdirect
@@ -826,6 +897,7 @@ nissay
 nl
 no
 nokia
+northwesternmutual
 norton
 now
 nowruz
@@ -840,6 +912,7 @@ nyc
 nz
 obi
 observer
+off
 office
 okinawa
 olayan
@@ -866,6 +939,7 @@ ovh
 pa
 page
 panasonic
+panerai
 paris
 pars
 partners
@@ -912,6 +986,7 @@ politie
 porn
 post
 pr
+pramerica
 praxi
 press
 prime
@@ -936,8 +1011,10 @@ qa
 qpon
 quebec
 quest
+qvc
 racing
 radio
+raid
 re
 read
 realestate
@@ -945,6 +1022,7 @@ realtor
 realty
 recipes
 red
+redstone
 redumbrella
 rehab
 reise
@@ -965,10 +1043,12 @@ rexroth
 rich
 richardli
 ricoh
+rightathome
 ril
 rio
 rip
 ro
+rocher
 rocks
 rodeo
 rogers
@@ -995,6 +1075,7 @@ sandvik
 sandvikcoromant
 sanofi
 sap
+sapo
 sarl
 sas
 save
@@ -1003,6 +1084,7 @@ sb
 sbi
 sbs
 sc
+sca
 scb
 schaeffler
 schmidt
@@ -1011,6 +1093,8 @@ school
 schule
 schwarz
 science
+scjohnson
+scor
 scot
 sd
 se
@@ -1022,6 +1106,7 @@ seek
 select
 sener
 services
+ses
 seven
 sew
 sex
@@ -1031,6 +1116,7 @@ sg
 sh
 shangrila
 sharp
+shaw
 shell
 shia
 shiksha
@@ -1039,6 +1125,8 @@ shop
 shopping
 shouji
 show
+showtime
+shriram
 si
 silk
 sina
@@ -1070,17 +1158,22 @@ sony
 soy
 spa
 space
+spiegel
 sport
 spot
+spreadbetting
 sr
 srl
+srt
 ss
 st
 stada
 staples
 star
+starhub
 statebank
 statefarm
+statoil
 stc
 stcgroup
 stockholm
@@ -1100,10 +1193,12 @@ surgery
 suzuki
 sv
 swatch
+swiftcover
 swiss
 sx
 sy
 sydney
+symantec
 systems
 sz
 tab
@@ -1124,6 +1219,8 @@ team
 tech
 technology
 tel
+telecity
+telefonica
 temasek
 tennis
 teva
@@ -1136,6 +1233,7 @@ theatre
 tiaa
 tickets
 tienda
+tiffany
 tips
 tires
 tirol
@@ -1165,6 +1263,7 @@ trade
 trading
 training
 travel
+travelchannel
 travelers
 travelersinsurance
 trust
@@ -1181,6 +1280,7 @@ tz
 ua
 ubank
 ubs
+uconnect
 ug
 uk
 unicom
@@ -1214,22 +1314,27 @@ vip
 virgin
 visa
 vision
+vista
+vistaprint
 viva
 vivo
 vlaanderen
 vn
 vodka
+volkswagen
 volvo
 vote
 voting
 voto
 voyage
 vu
+vuelos
 wales
 walmart
 walter
 wang
 wanggou
+warman
 watch
 watches
 weather
@@ -1251,6 +1356,7 @@ windows
 wine
 winners
 wme
+wolterskluwer
 woodside
 work
 works
@@ -1261,6 +1367,7 @@ wtc
 wtf
 xbox
 xerox
+xfinity
 xihuan
 xin
 xn--11b4c3d
@@ -1272,6 +1379,7 @@ xn--3bst00m
 xn--3ds443g
 xn--3e0b707e
 xn--3hcrj9c
+xn--3oq18vl8pn36a
 xn--3pxu8k
 xn--42c2d9a
 xn--45br5cyl
@@ -1340,10 +1448,12 @@ xn--j1aef
 xn--j1amh
 xn--j6w193g
 xn--jlq480n2rg
+xn--jlq61u9w7b
 xn--jvr189m
 xn--kcrx77d1x4a
 xn--kprw13d
 xn--kpry57d
+xn--kpu716f
 xn--kput3i
 xn--l1acc
 xn--lgbbat1ad8j
@@ -1353,12 +1463,14 @@ xn--mgba3a3ejt
 xn--mgba3a4f16a
 xn--mgba3a4fra
 xn--mgba7c0bbn0a
+xn--mgbaakc7dvf
 xn--mgbaam7a8h
 xn--mgbab2bd
 xn--mgbah1a3hjkrd
 xn--mgbai9a5eva00b
 xn--mgbai9azgqp6j
 xn--mgbayh7gpa
+xn--mgbb9fbpob
 xn--mgbbh1a
 xn--mgbbh1a71e
 xn--mgbc0a9azcg
@@ -1392,6 +1504,7 @@ xn--ogbpf8fl
 xn--otu796d
 xn--p1acf
 xn--p1ai
+xn--pbt977c
 xn--pgbs0dh
 xn--pssy2u
 xn--q7ce6a
@@ -1442,6 +1555,7 @@ zappos
 zara
 zero
 zip
+zippo
 zm
 zone
 zuerich
