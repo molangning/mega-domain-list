@@ -474,6 +474,7 @@ o365.cloud.nospamproxy.com
 objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
 on.amazonwebservices.com.cn
+on.staging.expo.app
 os.stg.fedoraproject.org
 pages-research.it.hs-heilbronn.de
 pages.it.hs-heilbronn.de
