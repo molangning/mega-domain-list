@@ -1577,6 +1577,7 @@ evervault.dev
 evje-og-hornnes.no
 ewp.live
 exchange.aero
+exe.xyz
 exnet.su
 experts-comptables.fr
 expo.app
@@ -1975,6 +1976,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk

@@ -1,12 +1,8 @@
-*.platformsh.site
-*.quipelements.com
 1.azurestaticapps.net
-114.xmit.co
 15.xmit.co
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
-216.xmit.co
 26.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
@@ -16,6 +12,9 @@
 7.azurestaticapps.net
 8yhqdsjdl.localto.net
 a.run.app
+a0.cloudera.site
+a1.cloudera.site
+a2.cloudera.site
 a4.cloudera.site
 a465-9q4k.cloudera.site
 aa.crm.dev
@@ -112,6 +111,7 @@ ap-east-1.elasticbeanstalk.com
 ap-east-1.on.aws
 ap-east-1.sagemaker.aws
 ap-hyderabad-1.oraclecloudapps.com
+ap-melbourne-1.oraclecloudapps.com
 ap-mumbai-1.oraclecloudapps.com
 ap-northeast-1.amazonaws.com
 ap-northeast-1.amazoncognito.com
@@ -260,6 +260,7 @@ ayabe.kyoto.jp
 ayagawa.kagawa.jp
 ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
+azcanadacentral.snowflake.app
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
 azjapaneast.snowflake.app
@@ -308,6 +309,8 @@ bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
 bradford.sch.uk
+brasil.nom.br
+brazilsouth.azurecontainer.io
 brent.sch.uk
 bridgend.sch.uk
 brighton-hove.sch.uk
@@ -323,6 +326,7 @@ buzen.fukuoka.jp
 bytemark.co.uk
 c.cdn77.org
 c.ts.net
+c0.cloudera.site
 ca-1.platformsh.site
 ca-central-1.amazonaws.com
 ca-central-1.amazoncognito.com
@@ -330,6 +334,7 @@ ca-central-1.elasticbeanstalk.com
 ca-central-1.on.aws
 ca-central-1.sagemaker.aws
 ca-montreal-1.oraclecloudapps.com
+ca-toronto-1.oraclecloudapps.com
 ca-west-1.amazonaws.com
 ca-west-1.amazoncognito.com
 ca-west-1.on.aws
@@ -411,7 +416,6 @@ cdn.cloudflareglobal.net
 cdn.digitaloceanspaces.com
 ce.gov.br
 ce.leg.br
-centralindia.azurecontainer.io
 centralus.azurecontainer.io
 centralus.azurestaticapps.net
 ceredigion.sch.uk
@@ -476,7 +480,6 @@ coventry.sch.uk
 croydon.sch.uk
 cs.keliweb.cloud
 cumbria.sch.uk
-cunha.nom.br
 cust.cloudscale.ch
 custom.metacentrum.cz
 customer.mythic-beasts.com
@@ -500,6 +503,7 @@ de-2.platformsh.site
 de-2.tst.site
 de.eu.org
 de.trendhosting.cloud
+dedicated.oraclecloudapps.com
 del1.vultrobjects.com
 demo.datacenter.fi
 demo.datadetect.com
@@ -903,7 +907,6 @@ higashiyama.kyoto.jp
 higashiyamato.tokyo.jp
 higashiyodogawa.osaka.jp
 higashiyoshino.nara.jp
-highland.sch.uk
 hiji.oita.jp
 hikari.yamaguchi.jp
 hikawa.shimane.jp
@@ -1483,6 +1486,7 @@ leicester.sch.uk
 leics.sch.uk
 lewisham.sch.uk
 lg.biz.ng
+lhr1.vultrobjects.com
 lib.ak.us
 lib.al.us
 lib.ar.us
@@ -1561,7 +1565,6 @@ maizuru.kyoto.jp
 makinohara.shizuoka.jp
 makurazaki.kagoshima.jp
 mamurogawa.yamagata.jp
-management.azurecontainer.io
 manchester.sch.uk
 maniwa.okayama.jp
 manno.kagawa.jp
@@ -1896,6 +1899,7 @@ niyodogawa.kochi.jp
 nl-ams-1.linodeobjects.com
 nl-ams.scw.cloud
 nl.eu.org
+nl.transurl.nl
 no-ip.co.uk
 no.eu.org
 nobeoka.miyazaki.jp
@@ -2261,6 +2265,7 @@ sa-east-1.amazoncognito.com
 sa-east-1.elasticbeanstalk.com
 sa-east-1.on.aws
 sa-east-1.sagemaker.aws
+sa-santiago-1.oraclecloudapps.com
 sa-saopaulo-1.oraclecloudapps.com
 sa-vinhedo-1.oraclecloudapps.com
 sa.edu.au
@@ -2551,7 +2556,6 @@ stg.fedoraproject.org
 sth.ac.at
 stirling.sch.uk
 stockport.sch.uk
-stockton.sch.uk
 stoke.sch.uk
 storage.supabase.co
 storage.yandexcloud.net
@@ -2824,6 +2828,7 @@ uk0.bigv.io
 uki.kumamoto.jp
 ukiha.fukuoka.jp
 uksouth.azurecontainer.io
+ukwest.azurecontainer.io
 um.gov.pl
 umaji.kochi.jp
 umi.fukuoka.jp
@@ -2993,6 +2998,7 @@ webpaas.ovh.net
 website-eu-central-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
 website-us-lax-1.linodeobjects.com
+website-us-southeast-1.linodeobjects.com
 website.yandexcloud.net
 weeklylottery.org.uk
 wesley.replit.dev
