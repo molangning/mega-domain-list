@@ -1,24 +1,24 @@
 0.xmit.co
 1.azurestaticapps.net
 114.xmit.co
+115.xmit.co
+131.xmit.co
+147.xmit.co
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
 216.xmit.co
-281.xmit.co
-285.xmit.co
+26.xmit.co
 29.xmit.co
+296.xmit.co
 3.azurestaticapps.net
-337.xmit.co
-36.xmit.co
-37.xmit.co
-389.xmit.co
 4.azurestaticapps.net
+43.xmit.co
 45.xmit.co
 48.xmit.co
 5.azurestaticapps.net
 5.xmit.co
-59.xmit.co
+57.xmit.co
 6.azurestaticapps.net
 6.xmit.co
 68.xmit.co
@@ -29,12 +29,8 @@ a.run.app
 a0.cloudera.site
 a1.cloudera.site
 a2.cloudera.site
-a3.cloudera.site
 a4.cloudera.site
 a465-9q4k.cloudera.site
-a5.cloudera.site
-a6.cloudera.site
-a8du-8mgv.cloudera.site
 aa.crm.dev
 ab.crm.dev
 abashiri.hokkaido.jp
@@ -238,7 +234,6 @@ asia-east1.hosted.app
 asia-east1.run.app
 asia-east2.run.app
 asia-northeast1.run.app
-asia-northeast2.run.app
 asia-northeast3.run.app
 asia-south1.run.app
 asia-south2.run.app
@@ -271,18 +266,18 @@ aws.snowflake.app
 awsapnortheast1.snowflake.app
 awsapsoutheast1sg.snowflake.app
 awseuwest2.snowflake.app
-awseuwest3.snowflake.app
 awsuseast2.snowflake.app
 aya.miyazaki.jp
 ayabe.kyoto.jp
 ayagawa.kagawa.jp
 ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
+azcanadacentral.snowflake.app
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
-azjapaneast.snowflake.app
 azsouthcentralus.snowflake.app
 azumino.nagano.jp
+azure.snowflake.app
 azurecentralus.snowflake.app
 azwesteurope.snowflake.app
 azwestus2.snowflake.app
@@ -328,6 +323,7 @@ bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
 bradford.sch.uk
+brasil.nom.br
 brazilsouth.azurecontainer.io
 brent.sch.uk
 bridgend.sch.uk
@@ -437,6 +433,7 @@ centralus.azurecontainer.io
 centralus.azurestaticapps.net
 ceredigion.sch.uk
 ch-1.platformsh.site
+ch-1.tst.site
 ch.eu.org
 ch.trendhosting.cloud
 cheshire.sch.uk
@@ -485,7 +482,6 @@ clwyd.sch.uk
 cn.eu.org
 co.biz.ng
 cog.mi.us
-colecionismo.nom.br
 com.futurecms.at
 compute-1.amazonaws.com
 compute.amazonaws.com
@@ -515,7 +511,6 @@ darlington.sch.uk
 date.fukushima.jp
 date.hokkaido.jp
 dazaifu.fukuoka.jp
-de-1.platformsh.site
 de-2.platformsh.site
 de-2.tst.site
 de-fra-1.linodeobjects.com
@@ -562,7 +557,6 @@ e-dunbarton.sch.uk
 e-renfrew.sch.uk
 e-riding.sch.uk
 e-sussex.sch.uk
-e-yorks.sch.uk
 ealing.sch.uk
 eastasia.azurecontainer.io
 eastasia.azurestaticapps.net
@@ -580,7 +574,6 @@ edu.eu.org
 ee.eu.org
 eiheiji.fukui.jp
 elb.amazonaws.com
-element--jb-n-aj-a-z14no.quipelements.com
 element--jd-g-aj-ac35-es.quipelements.com
 element--q-y-u-aj-a-g-nx-io.quipelements.com
 element--t-p-v-aj-a9-r-er-p.quipelements.com
@@ -689,10 +682,8 @@ ex.futurecms.at
 ex.ortsinfo.at
 experiments.sagemaker.aws
 ezproxy.kuleuven.be
-f32h-69ji.cloudera.site
 falkirk.sch.uk
 fentiger.mythic-beasts.com
-ferreira.nom.br
 fi.cloudplatform.fi
 fi.eu.org
 fife.sch.uk
@@ -764,7 +755,6 @@ fussa.tokyo.jp
 futaba.fukushima.jp
 futsu.nagasaki.jp
 futtsu.chiba.jp
-g16z-zg1g.cloudera.site
 gamagori.aichi.jp
 gamo.shiga.jp
 gateshead.sch.uk
@@ -928,7 +918,6 @@ higashiyama.kyoto.jp
 higashiyamato.tokyo.jp
 higashiyodogawa.osaka.jp
 higashiyoshino.nara.jp
-highland.sch.uk
 hiji.oita.jp
 hikari.yamaguchi.jp
 hikawa.shimane.jp
@@ -943,7 +932,6 @@ hino.tottori.jp
 hinode.tokyo.jp
 hinohara.tokyo.jp
 hioki.kagoshima.jp
-hip.usercontent.goog
 hirado.nagasaki.jp
 hiraizumi.iwate.jp
 hirakata.osaka.jp
@@ -970,7 +958,6 @@ hokuryu.hokkaido.jp
 hokuto.hokkaido.jp
 hokuto.yamanashi.jp
 home.dyndns.org
-home.nom.br
 honai.ehime.jp
 honbetsu.hokkaido.jp
 hongo.hiroshima.jp
@@ -1164,6 +1151,7 @@ jp.eu.org
 jp.ngrok.io
 js.wpenginepowered.com
 juchoupapis.beget.app
+junior.nom.br
 k12.ak.us
 k12.al.us
 k12.ar.us
@@ -1589,7 +1577,6 @@ maizuru.kyoto.jp
 makinohara.shizuoka.jp
 makurazaki.kagoshima.jp
 mamurogawa.yamagata.jp
-management.azurecontainer.io
 manchester.sch.uk
 maniwa.okayama.jp
 manno.kagawa.jp
@@ -1871,7 +1858,6 @@ nasushiobara.tochigi.jp
 natori.miyagi.jp
 nayoro.hokkaido.jp
 ne-lincs.sch.uk
-necifike.beget.app
 nemuro.hokkaido.jp
 nerima.tokyo.jp
 nes.akershus.no
@@ -1923,6 +1909,7 @@ niyodogawa.kochi.jp
 nl-ams-1.linodeobjects.com
 nl-ams.scw.cloud
 nl.eu.org
+nl.transurl.nl
 no-ip.co.uk
 no.eu.org
 nobeoka.miyazaki.jp
@@ -2101,6 +2088,7 @@ ouchi.saga.jp
 ouda.nara.jp
 oum.gov.pl
 oumu.hokkaido.jp
+ovh-fr-2.platformsh.site
 owani.aomori.jp
 owariasahi.aichi.jp
 oxon.sch.uk
@@ -2114,7 +2102,6 @@ ozu.ehime.jp
 ozu.kumamoto.jp
 p.tawk.email
 p.tawkto.email
-p9ia-zyhe.cloudera.site
 pa.crm.dev
 pa.gov.br
 pa.gov.pl
@@ -2178,10 +2165,8 @@ psp.gov.pl
 psse.gov.pl
 pt.eu.org
 pup.gov.pl
-pusanovsky.nom.br
 qld.edu.au
 qld.gov.au
-queiroz.nom.br
 r.appspot.com
 r.cdn77.net
 rac.sch.uk
@@ -2288,9 +2273,7 @@ sa-east-1.amazoncognito.com
 sa-east-1.elasticbeanstalk.com
 sa-east-1.on.aws
 sa-east-1.sagemaker.aws
-sa-santiago-1.oraclecloudapps.com
 sa-saopaulo-1.oraclecloudapps.com
-sa-vinhedo-1.oraclecloudapps.com
 sa.edu.au
 sa.gov.au
 sa.gov.pl
@@ -2364,7 +2347,6 @@ sc.leg.br
 scalebook.scw.cloud
 scaleforce.com.cy
 scf.usercontent.goog
-scilly.sch.uk
 scotborders.sch.uk
 sdmntpraueastdr.oaiusercontent.com
 sdmntpraustraliaeast.oaiusercontent.com
@@ -2386,7 +2368,6 @@ sdmntprpolandcentral.oaiusercontent.com
 sdmntprseasia.oaiusercontent.com
 sdmntprsouthcentralus.oaiusercontent.com
 sdmntprsoutheastus3.oaiusercontent.com
-sdmntpruksouthdr.oaiusercontent.com
 sdmntprukwest.oaiusercontent.com
 sdmntprwestcentralus.oaiusercontent.com
 sdmntprwestus.oaiusercontent.com
@@ -2412,7 +2393,6 @@ semine.miyagi.jp
 sennan.osaka.jp
 sera.hiroshima.jp
 seranishi.hiroshima.jp
-server.nom.br
 service.gov.scot
 service.gov.uk
 servicebus.usgovcloudapi.net
@@ -2581,7 +2561,6 @@ stg.fedoraproject.org
 sth.ac.at
 stirling.sch.uk
 stockport.sch.uk
-stockton.sch.uk
 stoke.sch.uk
 storage.supabase.co
 storage.yandexcloud.net
@@ -2980,7 +2959,6 @@ valer.ostfold.no
 vic.edu.au
 vic.gov.au
 vip.jelastic.cloud
-vnu8-sqze.cloudera.site
 vps.hrsn.au
 vps.mcdir.ru
 vps.myjino.ru
@@ -3038,7 +3016,6 @@ westminster.sch.uk
 westus.azurecontainer.io
 westus2.azurecontainer.io
 westus2.azurestaticapps.net
-westus3.azurecontainer.io
 wf.crm.dev
 wien.funkfeuer.at
 wif.gov.pl
