@@ -3511,6 +3511,7 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
+nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
@@ -3948,7 +3949,6 @@ paywhirl.com
 pb.ao
 pc.it
 pc.pl
-pch.pg
 pd.it
 pdns.page
 pe.ca
