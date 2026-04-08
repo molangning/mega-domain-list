@@ -2251,6 +2251,7 @@ homeunix.com
 homeunix.net
 homeunix.org
 honefoss.no
+hooc.me
 hoplix.shop
 hopto.me
 hopto.org
@@ -3686,6 +3687,7 @@ ooguy.com
 oops.jp
 opencraft.hosting
 opensocial.site
+opentunnel.xyz
 operaunite.com
 opik.net
 opoczno.pl
@@ -4582,6 +4584,7 @@ srcf.net
 srht.site
 srv.br
 srv.us
+sryze.cc
 ss.it
 st.no
 staba.jp
