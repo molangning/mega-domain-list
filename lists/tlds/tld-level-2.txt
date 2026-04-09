@@ -79,7 +79,6 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
-ac.fk
 ac.gn
 ac.id
 ac.il
@@ -3531,7 +3530,6 @@ nl.ca
 nl.no
 nm.cn
 nm.us
-nnic.np
 no-ip.biz
 no-ip.ca
 no-ip.info
@@ -3928,7 +3926,6 @@ padua.it
 pages.dev
 pages.gay
 pagespeedmobilizer.com
-pagexl.com
 palermo.it
 palmas.br
 panel.dev
@@ -3951,6 +3948,7 @@ paywhirl.com
 pb.ao
 pc.it
 pc.pl
+pch.pg
 pd.it
 pdns.page
 pe.ca
