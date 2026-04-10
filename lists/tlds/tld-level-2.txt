@@ -1178,6 +1178,7 @@ deno.dev
 deno.net
 dent.ec
 dep.no
+deployagent.com
 deporte.bo
 des.br
 desa.id
@@ -2612,6 +2613,7 @@ k12.ec
 k12.il
 k12.tr
 k12.vi
+k2.cloud
 kaas.gg
 kafjord.no
 kagawa.jp
@@ -3530,6 +3532,7 @@ nl.ca
 nl.no
 nm.cn
 nm.us
+nnic.np
 no-ip.biz
 no-ip.ca
 no-ip.info
@@ -5063,6 +5066,8 @@ virtualserver.io
 virtualuser.de
 vistablog.ir
 viterbo.it
+vivenushop.com
+vivenushop.dev
 vivian.jp
 vix.br
 vki.kr
