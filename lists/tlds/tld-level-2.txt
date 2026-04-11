@@ -79,6 +79,7 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
+ac.fk
 ac.gn
 ac.id
 ac.il
@@ -3513,7 +3514,6 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
-nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
