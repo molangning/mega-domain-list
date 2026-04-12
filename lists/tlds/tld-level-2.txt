@@ -3514,6 +3514,7 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
+nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
