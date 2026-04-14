@@ -79,6 +79,7 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
+ac.fk
 ac.gn
 ac.id
 ac.il
@@ -2217,6 +2218,7 @@ hk.com
 hk.org
 hl.cn
 hl.no
+hluttaw.mm
 hlx.live
 hlx.page
 hm.no
