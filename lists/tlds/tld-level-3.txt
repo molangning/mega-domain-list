@@ -6,6 +6,7 @@
 2.azurestaticapps.net
 214.xmit.co
 216.xmit.co
+26.xmit.co
 29.xmit.co
 296.xmit.co
 3.azurestaticapps.net
@@ -19,10 +20,8 @@ a.run.app
 a0.cloudera.site
 a1.cloudera.site
 a2.cloudera.site
-a3.cloudera.site
 a4.cloudera.site
 a465-9q4k.cloudera.site
-a8du-8mgv.cloudera.site
 aa.crm.dev
 ab.crm.dev
 abashiri.hokkaido.jp
@@ -253,7 +252,6 @@ au.ngrok.io
 au.platformsh.site
 au.snowflake.app
 australia-southeast1.run.app
-australia-southeast2.run.app
 australiaeast.azurecontainer.io
 australiasoutheast.azurecontainer.io
 awaji.hyogo.jp
@@ -268,6 +266,8 @@ ayabe.kyoto.jp
 ayagawa.kagawa.jp
 ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
+azcanadacentral.snowflake.app
+azcentralindia.snowflake.app
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
 azjapaneast.snowflake.app
@@ -278,7 +278,6 @@ azurecentralus.snowflake.app
 azwesteurope.snowflake.app
 azwestus2.snowflake.app
 b0.cloudera.site
-b1.cloudera.site
 ba.gov.br
 ba.leg.br
 bainbridge-isl.wa.us
@@ -1157,6 +1156,7 @@ jp.eu.org
 jp.ngrok.io
 js.wpenginepowered.com
 juchoupapis.beget.app
+junior.nom.br
 k12.ak.us
 k12.al.us
 k12.ar.us
@@ -1507,6 +1507,7 @@ leicester.sch.uk
 leics.sch.uk
 lewisham.sch.uk
 lg.biz.ng
+lhr1.vultrobjects.com
 lib.ak.us
 lib.al.us
 lib.ar.us
@@ -1916,7 +1917,6 @@ nishitosa.kochi.jp
 nishiwaki.hyogo.jp
 nisshin.aichi.jp
 niyodogawa.kochi.jp
-nl-1.platformsh.site
 nl-ams-1.linodeobjects.com
 nl-ams.scw.cloud
 nl.eu.org
@@ -1953,7 +1953,6 @@ notts.sch.uk
 nozawaonsen.nagano.jp
 nsw.edu.au
 nt.edu.au
-ntc.nom.br
 numata.gunma.jp
 numata.hokkaido.jp
 numazu.shizuoka.jp
@@ -2103,7 +2102,6 @@ ouchi.saga.jp
 ouda.nara.jp
 oum.gov.pl
 oumu.hokkaido.jp
-ovh-fr-2.platformsh.site
 owani.aomori.jp
 owariasahi.aichi.jp
 oxon.sch.uk
@@ -2168,7 +2166,6 @@ powys.sch.uk
 pr.gov.br
 pr.gov.pl
 pr.leg.br
-prediger.nom.br
 prerelease.replit.dev
 preview.csb.app
 preview.emergentagent.com
@@ -2255,6 +2252,7 @@ s-tyneside.sch.uk
 s.brave.app
 s.brave.dev
 s.brave.io
+s1.nxa.eu
 s3-1.amazonaws.com
 s3-ap-east-1.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
@@ -2393,6 +2391,7 @@ sdmntprpolandcentral.oaiusercontent.com
 sdmntprseasia.oaiusercontent.com
 sdmntprsouthcentralus.oaiusercontent.com
 sdmntprsoutheastus3.oaiusercontent.com
+sdmntpruksouthdr.oaiusercontent.com
 sdmntprukwest.oaiusercontent.com
 sdmntprwestcentralus.oaiusercontent.com
 sdmntprwestus.oaiusercontent.com
@@ -2590,7 +2589,6 @@ static.usercontent.goog
 stg-builder.code.com
 stg.fedoraproject.org
 sth.ac.at
-stirling.sch.uk
 stockport.sch.uk
 stoke.sch.uk
 storage.supabase.co
@@ -2864,7 +2862,6 @@ uk0.bigv.io
 uki.kumamoto.jp
 ukiha.fukuoka.jp
 uksouth.azurecontainer.io
-ukwest.azurecontainer.io
 um.gov.pl
 umaji.kochi.jp
 umi.fukuoka.jp
@@ -2989,6 +2986,7 @@ valer.ostfold.no
 vic.edu.au
 vic.gov.au
 vip.jelastic.cloud
+vnu8-sqze.cloudera.site
 vps.hrsn.au
 vps.mcdir.ru
 vps.myjino.ru
