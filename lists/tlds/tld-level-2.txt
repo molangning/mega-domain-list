@@ -744,6 +744,7 @@ civilaviation.aero
 ck.ua
 cl.it
 clan.rip
+claude.app
 cldmail.ru
 clerk.app
 clerkstage.app
@@ -759,7 +760,6 @@ cloud66.ws
 cloudaccess.host
 cloudaccess.net
 cloudapp.net
-cloudapps.digital
 cloudbeesusercontent.io
 cloudera.site
 cloudflare-ipfs.com
