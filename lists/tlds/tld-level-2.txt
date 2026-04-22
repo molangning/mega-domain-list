@@ -1977,6 +1977,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3532,6 +3533,7 @@ nl.ca
 nl.no
 nm.cn
 nm.us
+nnic.np
 no-ip.biz
 no-ip.ca
 no-ip.info
