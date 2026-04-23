@@ -1977,7 +1977,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
@@ -4816,7 +4815,6 @@ transurl.eu
 transurl.nl
 trapani.it
 travel.in
-travel.np
 travel.pl
 travinh.vn
 trd.br
