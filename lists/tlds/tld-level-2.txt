@@ -328,7 +328,10 @@ asti.it
 at-band-camp.net
 at.it
 ath.cx
+atlassian-3p-us-gov-mod.com
+atlassian-3p.com
 atlassian-dev.net
+atlassian-isolated-3p.com
 atm.pl
 atmeta.com
 ato.br
@@ -1180,6 +1183,7 @@ deno.net
 dent.ec
 dep.no
 deployagent.com
+deployagent.space
 deporte.bo
 des.br
 desa.id
@@ -1798,6 +1802,7 @@ frosinone.it
 frosta.no
 froya.no
 frusky.de
+fspages.org
 fst.br
 ftpaccess.cc
 fuel.aero
@@ -1977,6 +1982,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3013,6 +3019,7 @@ merseine.nu
 messerli.app
 messina.it
 messwithdns.com
+metaaiusercontent.com
 metacentrum.cz
 meteorapp.com
 mex.com
@@ -3986,6 +3993,7 @@ phutho.vn
 phuyen.vn
 pi.it
 piacenza.it
+piebox.site
 piedmont.it
 piemonte.it
 pigboat.jp
@@ -4815,6 +4823,7 @@ transurl.eu
 transurl.nl
 trapani.it
 travel.in
+travel.np
 travel.pl
 travinh.vn
 trd.br
