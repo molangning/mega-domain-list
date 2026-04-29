@@ -5061,6 +5061,7 @@ vibo-valentia.it
 vibovalentia.it
 vic.au
 vicenza.it
+vicp.fun
 video.hu
 vik.no
 vikna.no
@@ -5519,6 +5520,7 @@ yamaguchi.jp
 yamanashi.jp
 yandexcloud.net
 yenbai.vn
+yicp.fun
 yk.ca
 yn.cn
 ynh.fr
@@ -5548,6 +5550,7 @@ zgora.pl
 zgorzelec.pl
 zhitomir.ua
 zhytomyr.ua
+zicp.fun
 zj.cn
 zlg.br
 zombie.jp
