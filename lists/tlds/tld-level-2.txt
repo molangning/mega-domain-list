@@ -3604,7 +3604,6 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
-ns.jm
 nsn.us
 nsupdate.info
 nsw.au
