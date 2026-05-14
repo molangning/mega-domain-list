@@ -2281,6 +2281,7 @@ hrsn.au
 hrsn.dev
 hs-heilbronn.de
 hs.kr
+hstgr.cloud
 httpbin.org
 hu.net
 hue.vn
@@ -4626,6 +4627,8 @@ stokke.no
 stolos.io
 stor-elvdal.no
 storacha.link
+storage.dev
+storageapi.dev
 stord.no
 stordal.no
 store.bb
