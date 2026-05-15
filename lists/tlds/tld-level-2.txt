@@ -1981,7 +1981,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3384,7 +3383,6 @@ net.do
 net.dz
 net.ec
 net.eg
-net.er
 net.et
 net.fj
 net.fk
