@@ -79,6 +79,7 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
+ac.fk
 ac.gn
 ac.id
 ac.il
