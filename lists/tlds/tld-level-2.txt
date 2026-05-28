@@ -170,6 +170,7 @@ agron.ec
 ah.cn
 ah.no
 ai.bd
+ai.id
 ai.in
 ai.jo
 ai.kr
@@ -569,7 +570,7 @@ bolzano.it
 bomlo.no
 bona.jp
 boo.jp
-bookonline.app
+book.online
 boomla.net
 botda.sh
 botdash.app
@@ -671,6 +672,7 @@ cantho.vn
 canva-apps.cn
 canva-apps.com
 canva-hosted-embed.com
+canva.link
 canva.run
 canva.site
 canvacode.com
@@ -1981,6 +1983,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -2666,6 +2669,7 @@ kherson.ua
 khmelnitskiy.ua
 khmelnytskyi.ua
 khplay.nl
+khsj.cn
 kicks-ass.net
 kicks-ass.org
 kiengiang.vn
