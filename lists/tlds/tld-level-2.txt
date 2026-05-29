@@ -3523,7 +3523,6 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
-nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
@@ -4246,7 +4245,6 @@ res.in
 research.aero
 researched.cx
 reservd.com
-reserve-online.com
 reserve-online.net
 resindevice.io
 resinstaging.io
