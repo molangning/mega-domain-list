@@ -11,7 +11,9 @@
 430.xmit.co
 438.xmit.co
 439.xmit.co
+440.xmit.co
 5.azurestaticapps.net
+57.xmit.co
 6.azurestaticapps.net
 68.xmit.co
 69.xmit.co
@@ -20,9 +22,11 @@ a.metaaiusercontent.com
 a.run.app
 a0.cloudera.site
 a1.cloudera.site
+a2.cloudera.site
 a4.cloudera.site
 a465-9q4k.cloudera.site
 a6.cloudera.site
+a9.cloudera.site
 aa.crm.dev
 ab.crm.dev
 abashiri.hokkaido.jp
@@ -118,6 +122,7 @@ ap-east-1.elasticbeanstalk.com
 ap-east-1.on.aws
 ap-east-1.sagemaker.aws
 ap-hyderabad-1.oraclecloudapps.com
+ap-melbourne-1.oraclecloudapps.com
 ap-mumbai-1.oraclecloudapps.com
 ap-northeast-1.amazonaws.com
 ap-northeast-1.amazoncognito.com
@@ -184,6 +189,7 @@ ap.leg.br
 ap.ngrok.io
 api.gov.uk
 api.lp.dev
+api.run.app
 api.stdlib.com
 app--app--8qmsmc78mcn9.code.run
 app.paywhirl.com
@@ -270,6 +276,7 @@ ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
+aznortheurope.snowflake.app
 azsouthcentralus.snowflake.app
 azumino.nagano.jp
 azure.snowflake.app
@@ -316,6 +323,7 @@ bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
 bradford.sch.uk
+brazilsouth.azurecontainer.io
 bremerton.wa.us
 brent.sch.uk
 brighton-hove.sch.uk
@@ -423,7 +431,6 @@ centralus.azurecontainer.io
 centralus.azurestaticapps.net
 ceredigion.sch.uk
 ch-1.platformsh.site
-ch-1.tst.site
 ch.eu.org
 ch.trendhosting.cloud
 chehalis.wa.us
@@ -484,6 +491,7 @@ coventry.sch.uk
 croydon.sch.uk
 cs.keliweb.cloud
 cumbria.sch.uk
+cunha.nom.br
 cust.cloudscale.ch
 custom.metacentrum.cz
 customer.mythic-beasts.com
@@ -657,6 +665,7 @@ europe-north1.run.app
 europe-north2.run.app
 europe-southwest1.run.app
 europe-west1.run.app
+europe-west10.run.app
 europe-west12.run.app
 europe-west2.run.app
 europe-west3.run.app
@@ -676,6 +685,7 @@ falkirk.sch.uk
 fentiger.mythic-beasts.com
 fi.cloudplatform.fi
 fi.eu.org
+fife.sch.uk
 files-eu.oaiusercontent.com
 files-jp.oaiusercontent.com
 files.oaiusercontent.com
@@ -750,7 +760,6 @@ gamo.shiga.jp
 gcp.snowflake.app
 gcpeuropewest4.snowflake.app
 gcpuscentral1.snowflake.app
-gea.nom.br
 gehirn.ne.jp
 geisei.kochi.jp
 gen.mi.us
@@ -1056,11 +1065,11 @@ ipfs.inbrowser.link
 ipfs.nftstorage.link
 ipfs.storacha.link
 ipfs.w3s.link
-ipistsasubupat.begetcdn.cloud
 ipns.dweb.link
 ipns.inbrowser.link
 iran.liara.run
 iruma.saitama.jp
+irzs-oc98.cloudera.site
 is.eu.org
 is.gov.pl
 isa.kagoshima.jp
@@ -1719,6 +1728,7 @@ mofebafilueman.begetcdn.cloud
 moka.tochigi.jp
 mokuren.ne.jp
 mombetsu.hokkaido.jp
+monmouthshire.sch.uk
 moray.sch.uk
 moriguchi.osaka.jp
 morimachi.shizuoka.jp
@@ -2220,7 +2230,6 @@ ryokami.saitama.jp
 ryugasaki.ibaraki.jp
 ryuoh.shiga.jp
 rzgw.gov.pl
-s-gloucs.sch.uk
 s-lanark.sch.uk
 s.brave.app
 s.brave.dev
@@ -2364,7 +2373,6 @@ sdmntprpolandcentral.oaiusercontent.com
 sdmntprseasia.oaiusercontent.com
 sdmntprsouthcentralus.oaiusercontent.com
 sdmntprsoutheastus3.oaiusercontent.com
-sdmntpruksouthdr.oaiusercontent.com
 sdmntprukwest.oaiusercontent.com
 sdmntprwestcentralus.oaiusercontent.com
 sdmntprwestus.oaiusercontent.com
@@ -2533,6 +2541,7 @@ somerset.sch.uk
 soni.nara.jp
 soo.kagoshima.jp
 sosa.chiba.jp
+southafricanorth.azurecontainer.io
 southamerica-east1.run.app
 southamerica-west1.run.app
 southampton.sch.uk
@@ -2593,6 +2602,7 @@ svc.firenet.ch
 swansea.sch.uk
 swedencentral.azurecontainer.io
 swindon.sch.uk
+switzerlandnorth.azurecontainer.io
 sy8gjc2lrl.code.run
 syd1.digitaloceanspaces.com
 sys.qcx.io
@@ -2908,6 +2918,7 @@ us-gov-west-1.sagemaker.aws
 us-iad-1.linodeobjects.com
 us-iad-10.linodeobjects.com
 us-lax-1.linodeobjects.com
+us-luke-1.oraclegovcloudapps.com
 us-mia-1.linodeobjects.com
 us-ord-1.linodeobjects.com
 us-ord-10.linodeobjects.com
@@ -2957,6 +2968,7 @@ uzs.gov.pl
 va.snowflake.app
 va2.snowflake.app
 va3.snowflake.app
+va4.snowflake.app
 valer.hedmark.no
 valer.ostfold.no
 vic.edu.au
@@ -2968,7 +2980,6 @@ vps.myjino.ru
 vs.mythic-beasts.com
 vscode-frontend.devinapps.com
 w-berks.sch.uk
-w-dunbarton.sch.uk
 w-sussex.sch.uk
 w.crm.dev
 wa.crm.dev
@@ -3009,6 +3020,7 @@ website-eu-central-1.linodeobjects.com
 website-se-sto-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
 website-us-lax-1.linodeobjects.com
+website-us-southeast-1.linodeobjects.com
 website.k2.cloud
 website.yandexcloud.net
 weeklylottery.org.uk
@@ -3016,6 +3028,7 @@ wesley.replit.dev
 west1-us.cloudjiffy.net
 westeurope.azurecontainer.io
 westeurope.azurestaticapps.net
+westminster.sch.uk
 westus.azurecontainer.io
 westus2.azurecontainer.io
 westus2.azurestaticapps.net
