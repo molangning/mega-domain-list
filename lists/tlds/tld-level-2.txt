@@ -717,6 +717,7 @@ chambagri.fr
 championship.aero
 channelsdvr.net
 charter.aero
+chatgpt.site
 cheap.jp
 chef.ec
 cherkassy.ua
@@ -3608,7 +3609,6 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
-ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -5063,6 +5063,7 @@ vf.no
 vgs.no
 vi.it
 vi.us
+vibehost.space
 vibo-valentia.it
 vibovalentia.it
 vic.au

@@ -1,16 +1,15 @@
 0.xmit.co
 1.azurestaticapps.net
 114.xmit.co
+15.xmit.co
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
-216.xmit.co
 29.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
 430.xmit.co
 438.xmit.co
-442.xmit.co
 5.azurestaticapps.net
 6.azurestaticapps.net
 68.xmit.co
@@ -248,7 +247,6 @@ au.ngrok.io
 au.platformsh.site
 au.snowflake.app
 australia-southeast1.run.app
-australia-southeast2.run.app
 australiaeast.azurecontainer.io
 australiasoutheast.azurecontainer.io
 awaji.hyogo.jp
@@ -265,7 +263,6 @@ ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
-aznortheurope.snowflake.app
 azsouthcentralus.snowflake.app
 azumino.nagano.jp
 azure.snowflake.app
@@ -454,6 +451,7 @@ chuo.osaka.jp
 chuo.tokyo.jp
 chuo.yamanashi.jp
 ci.crm.dev
+cimerupaliyis.begetcdn.cloud
 client.scrypted.io
 cloud.fedoraproject.org
 cloud.int.apple
@@ -468,15 +466,14 @@ cn.eu.org
 co.biz.ng
 cog.mi.us
 com.futurecms.at
-com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
 core.usgovcloudapi.net
 core.windows.net
 cornwall.sch.uk
-costa.nom.br
 coventry.sch.uk
+crohokukhunosep.begetcdn.cloud
 croydon.sch.uk
 cs.keliweb.cloud
 cumbria.sch.uk
@@ -673,6 +670,7 @@ falkirk.sch.uk
 fentiger.mythic-beasts.com
 fi.cloudplatform.fi
 fi.eu.org
+files-au.oaiusercontent.com
 files-eu.oaiusercontent.com
 files-jp.oaiusercontent.com
 files.oaiusercontent.com
@@ -1011,6 +1009,7 @@ imabari.ehime.jp
 imakane.hokkaido.jp
 imari.saga.jp
 imizu.toyama.jp
+in-bom-1.linodeobjects.com
 in-maa-1.linodeobjects.com
 in.eu.org
 in.futurecms.at
@@ -1616,6 +1615,7 @@ mg.gov.br
 mg.leg.br
 miasa.nagano.jp
 mibu.tochigi.jp
+middlesbrough.sch.uk
 midori.chiba.jp
 midori.gunma.jp
 mifune.kumamoto.jp
@@ -1713,7 +1713,6 @@ mock.pstmn.io
 moka.tochigi.jp
 mokuren.ne.jp
 mombetsu.hokkaido.jp
-moray.sch.uk
 moriguchi.osaka.jp
 morimachi.shizuoka.jp
 morioka.iwate.jp
@@ -1765,6 +1764,7 @@ n-ayrshire.sch.uk
 n-lanark.sch.uk
 n-lincs.sch.uk
 n-somerset.sch.uk
+n-tyneside.sch.uk
 n-yorks.sch.uk
 nabari.mie.jp
 nachikatsuura.wakayama.jp
@@ -1844,6 +1844,7 @@ nerima.tokyo.jp
 nes.akershus.no
 nes.buskerud.no
 net.eu.org
+net.user.fm
 newcastle.sch.uk
 newham.sch.uk
 newport.sch.uk
@@ -1912,6 +1913,7 @@ northants.sch.uk
 northcentralus.azurecontainer.io
 northeurope.azurecontainer.io
 northumberland.sch.uk
+norwayeast.azurecontainer.io
 nose.osaka.jp
 nosegawa.nara.jp
 noshiro.akita.jp
@@ -2150,7 +2152,6 @@ pt.eu.org
 pup.gov.pl
 qld.edu.au
 qld.gov.au
-queiroz.nom.br
 r.appspot.com
 r.cdn77.net
 raffleentry.org.uk
@@ -2192,7 +2193,6 @@ ro.eu.org
 ro.gov.br
 ro.leg.br
 rochdale.sch.uk
-rodrigues.nom.br
 rokunohe.aomori.jp
 rotherham.sch.uk
 rr.gov.br
@@ -2491,7 +2491,6 @@ shoo.okayama.jp
 shop.brendly.ba
 shop.brendly.hr
 shop.brendly.rs
-shop.paywhirl.com
 showa.fukushima.jp
 showa.gunma.jp
 showa.yamanashi.jp
@@ -2799,7 +2798,6 @@ tucker.replit.dev
 u.channelsdvr.net
 u2-local.xnbay.com
 u2.xnbay.com
-uaenorth.azurecontainer.io
 ube.yamaguchi.jp
 uc.gateway.dev
 uchihara.ibaraki.jp
