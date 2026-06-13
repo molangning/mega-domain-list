@@ -1,4 +1,3 @@
-0.xmit.co
 1.azurestaticapps.net
 114.xmit.co
 15.xmit.co
@@ -17,8 +16,6 @@
 7.azurestaticapps.net
 a.metaaiusercontent.com
 a.run.app
-a0.cloudera.site
-a2.cloudera.site
 a4.cloudera.site
 a465-9q4k.cloudera.site
 aa.crm.dev
@@ -113,7 +110,7 @@ ap-east-1.amazoncognito.com
 ap-east-1.elasticbeanstalk.com
 ap-east-1.on.aws
 ap-east-1.sagemaker.aws
-ap-melbourne-1.oraclecloudapps.com
+ap-hyderabad-1.oraclecloudapps.com
 ap-mumbai-1.oraclecloudapps.com
 ap-northeast-1.amazonaws.com
 ap-northeast-1.amazoncognito.com
@@ -247,7 +244,6 @@ au.ngrok.io
 au.platformsh.site
 au.snowflake.app
 australia-southeast1.run.app
-australia-southeast2.run.app
 australiaeast.azurecontainer.io
 australiasoutheast.azurecontainer.io
 awaji.hyogo.jp
@@ -311,6 +307,7 @@ bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
 bradford.sch.uk
+brazilsouth.azurecontainer.io
 bremerton.wa.us
 brent.sch.uk
 brighton-hove.sch.uk
@@ -483,6 +480,7 @@ customer.mythic-beasts.com
 customer.speedpartner.de
 cy.eu.org
 cz.eu.org
+d.0emm.com
 d.crm.dev
 d.gv.vc
 d6.ply.gg
@@ -528,7 +526,6 @@ dorset.sch.uk
 doshi.yamanashi.jp
 dst.mi.us
 dudley.sch.uk
-dumgal.sch.uk
 dundeecity.sch.uk
 durham.sch.uk
 dyn.addr.tools
@@ -671,7 +668,6 @@ fentiger.mythic-beasts.com
 fi.cloudplatform.fi
 fi.eu.org
 fife.sch.uk
-files-au.oaiusercontent.com
 files-eu.oaiusercontent.com
 files-jp.oaiusercontent.com
 files.oaiusercontent.com
@@ -834,7 +830,6 @@ hamada.shimane.jp
 hamamatsu.shizuoka.jp
 hamatama.saga.jp
 hamatonbetsu.hokkaido.jp
-hammersmith.sch.uk
 hamura.tokyo.jp
 hanamaki.iwate.jp
 hanamigawa.chiba.jp
@@ -1115,6 +1110,7 @@ izunokuni.shizuoka.jp
 j.scaleforce.net
 janeway.replit.dev
 japaneast.azurecontainer.io
+japanwest.azurecontainer.io
 jc.neen.it
 jcloud-ver-jpc.ik-server.com
 jcloud.ik-server.com
@@ -1557,6 +1553,7 @@ mail-box.ne.jp
 maizuru.kyoto.jp
 makinohara.shizuoka.jp
 makurazaki.kagoshima.jp
+malaysiawest.azurecontainer.io
 mamurogawa.yamagata.jp
 manchester.sch.uk
 maniwa.okayama.jp
@@ -1708,7 +1705,6 @@ mk.eu.org
 mobara.chiba.jp
 mochizuki.nagano.jp
 mock.pstmn.io
-mofebafilueman.begetcdn.cloud
 moka.tochigi.jp
 mokuren.ne.jp
 mombetsu.hokkaido.jp
@@ -1891,7 +1887,6 @@ niyodogawa.kochi.jp
 nl-ams-1.linodeobjects.com
 nl-ams.scw.cloud
 nl.eu.org
-nl.transurl.nl
 no-ip.co.uk
 no.eu.org
 nobeoka.miyazaki.jp
@@ -2003,7 +1998,6 @@ okuizumo.shimane.jp
 okuma.fukushima.jp
 okutama.tokyo.jp
 oldham.sch.uk
-olifquackus.beget.app
 olympia.wa.us
 omachi.nagano.jp
 omachi.saga.jp
@@ -2215,6 +2209,7 @@ ryokami.saitama.jp
 ryugasaki.ibaraki.jp
 ryuoh.shiga.jp
 rzgw.gov.pl
+s-gloucs.sch.uk
 s-lanark.sch.uk
 s.brave.app
 s.brave.dev
@@ -2360,7 +2355,6 @@ sdmntprpolandcentral.oaiusercontent.com
 sdmntprseasia.oaiusercontent.com
 sdmntprsouthcentralus.oaiusercontent.com
 sdmntprsoutheastus3.oaiusercontent.com
-sdmntpruksouthdr.oaiusercontent.com
 sdmntprukwest.oaiusercontent.com
 sdmntprwestcentralus.oaiusercontent.com
 sdmntprwestus.oaiusercontent.com
@@ -2576,6 +2570,7 @@ sumomo.ne.jp
 sumoto.hyogo.jp
 sumoto.kumamoto.jp
 sunagawa.hokkaido.jp
+sunderland.sch.uk
 surrey.sch.uk
 susaki.kochi.jp
 susono.shizuoka.jp
@@ -2832,6 +2827,7 @@ uk0.bigv.io
 uki.kumamoto.jp
 ukiha.fukuoka.jp
 uksouth.azurecontainer.io
+ukwest.azurecontainer.io
 um.gov.pl
 umaji.kochi.jp
 umi.fukuoka.jp
@@ -2926,6 +2922,7 @@ us-west3.run.app
 us-west4.run.app
 us.eu.org
 us.gov.pl
+us.magentosite.cloud
 us.ngrok.io
 us.platform.sh
 us.platformsh.site
@@ -3011,7 +3008,6 @@ wesley.replit.dev
 west1-us.cloudjiffy.net
 westeurope.azurecontainer.io
 westeurope.azurestaticapps.net
-westminster.sch.uk
 westus.azurecontainer.io
 westus2.azurecontainer.io
 westus2.azurestaticapps.net
