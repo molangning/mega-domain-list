@@ -4,11 +4,11 @@
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
+29.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
 430.xmit.co
 438.xmit.co
-439.xmit.co
 5.azurestaticapps.net
 6.azurestaticapps.net
 68.xmit.co
@@ -16,7 +16,7 @@
 7.azurestaticapps.net
 a.metaaiusercontent.com
 a.run.app
-a4.cloudera.site
+a2.cloudera.site
 a465-9q4k.cloudera.site
 aa.crm.dev
 ab.crm.dev
@@ -110,7 +110,6 @@ ap-east-1.amazoncognito.com
 ap-east-1.elasticbeanstalk.com
 ap-east-1.on.aws
 ap-east-1.sagemaker.aws
-ap-hyderabad-1.oraclecloudapps.com
 ap-mumbai-1.oraclecloudapps.com
 ap-northeast-1.amazonaws.com
 ap-northeast-1.amazoncognito.com
@@ -128,7 +127,6 @@ ap-northeast-3.amazoncognito.com
 ap-northeast-3.elasticbeanstalk.com
 ap-northeast-3.on.aws
 ap-northeast-3.sagemaker.aws
-ap-osaka-1.oraclecloudapps.com
 ap-singapore-1.oraclecloudapps.com
 ap-south-1.amazonaws.com
 ap-south-1.amazoncognito.com
@@ -249,10 +247,8 @@ australiasoutheast.azurecontainer.io
 awaji.hyogo.jp
 aws.snowflake.app
 awsapnortheast1.snowflake.app
-awsapsouth1.snowflake.app
 awsapsoutheast1sg.snowflake.app
 awseuwest2.snowflake.app
-awseuwest3.snowflake.app
 awsuseast2.snowflake.app
 aya.miyazaki.jp
 ayabe.kyoto.jp
@@ -261,7 +257,6 @@ ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
-azsouthcentralus.snowflake.app
 azumino.nagano.jp
 azure.snowflake.app
 azurecentralus.snowflake.app
@@ -307,9 +302,9 @@ bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
 bradford.sch.uk
-brazilsouth.azurecontainer.io
 bremerton.wa.us
 brent.sch.uk
+bridgend.sch.uk
 brighton-hove.sch.uk
 bristol.sch.uk
 bromley.sch.uk
@@ -463,6 +458,7 @@ cn.eu.org
 co.biz.ng
 cog.mi.us
 com.futurecms.at
+com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
@@ -474,13 +470,13 @@ coventry.sch.uk
 croydon.sch.uk
 cs.keliweb.cloud
 cumbria.sch.uk
+cunha.nom.br
 cust.cloudscale.ch
 custom.metacentrum.cz
 customer.mythic-beasts.com
 customer.speedpartner.de
 cy.eu.org
 cz.eu.org
-d.0emm.com
 d.crm.dev
 d.gv.vc
 d6.ply.gg
@@ -493,6 +489,7 @@ darlington.sch.uk
 date.fukushima.jp
 date.hokkaido.jp
 dazaifu.fukuoka.jp
+de-1.platformsh.site
 de-2.platformsh.site
 de-2.tst.site
 de-fra-1.linodeobjects.com
@@ -555,12 +552,6 @@ ee.eu.org
 eiheiji.fukui.jp
 elastic.k2.cloud
 elb.amazonaws.com
-element--jb-n-aj-a-z14no.quipelements.com
-element--jd-g-aj-ac35-es.quipelements.com
-element--q-y-u-aj-a-g-nx-io.quipelements.com
-element--t-p-v-aj-a9-r-er-p.quipelements.com
-element--xd-j-aj-a-n5-jbi.quipelements.com
-element-e-w-j-aj-a-hh-o-xa.quipelements.com
 embetsu.hokkaido.jp
 ena.gifu.jp
 enfield.sch.uk
@@ -648,8 +639,6 @@ europe-north1.run.app
 europe-north2.run.app
 europe-southwest1.run.app
 europe-west1.run.app
-europe-west10.run.app
-europe-west12.run.app
 europe-west2.run.app
 europe-west3.run.app
 europe-west4.hosted.app
@@ -758,7 +747,6 @@ gl.srv.us
 glasgow.sch.uk
 global.replit.dev
 gloucs.sch.uk
-glow.sch.uk
 glug.org.uk
 go.biz.ng
 go.dyndns.org
@@ -1708,7 +1696,6 @@ mock.pstmn.io
 moka.tochigi.jp
 mokuren.ne.jp
 mombetsu.hokkaido.jp
-monmouthshire.sch.uk
 moray.sch.uk
 moriguchi.osaka.jp
 morimachi.shizuoka.jp
@@ -2031,7 +2018,6 @@ ooshika.nagano.jp
 oow.gov.pl
 opal.ne.jp
 ora.gunma.jp
-origem.nom.br
 origin.cdn77-secure.org
 os.fedoraproject.org
 os.hedmark.no
@@ -2251,7 +2237,6 @@ s3-website-us-west-2.amazonaws.com
 s3.amazonaws.com
 s3.k2.cloud
 s3.teckids.org
-sa-bogota-1.oraclecloudapps.com
 sa-east-1.amazonaws.com
 sa-east-1.amazoncognito.com
 sa-east-1.elasticbeanstalk.com
@@ -2259,7 +2244,6 @@ sa-east-1.on.aws
 sa-east-1.sagemaker.aws
 sa-santiago-1.oraclecloudapps.com
 sa-saopaulo-1.oraclecloudapps.com
-sa-vinhedo-1.oraclecloudapps.com
 sa.edu.au
 sa.gov.au
 sa.gov.pl
@@ -2337,7 +2321,6 @@ sdmntpraueastdr.oaiusercontent.com
 sdmntpraustraliaeast.oaiusercontent.com
 sdmntprbrazilsouth.oaiusercontent.com
 sdmntprcacentral.oaiusercontent.com
-sdmntprcacentraldr.oaiusercontent.com
 sdmntprcentralindia.oaiusercontent.com
 sdmntprcentralus.oaiusercontent.com
 sdmntprcentralusdr.oaiusercontent.com
@@ -2522,6 +2505,7 @@ somerset.sch.uk
 soni.nara.jp
 soo.kagoshima.jp
 sosa.chiba.jp
+southafricanorth.azurecontainer.io
 southamerica-east1.run.app
 southamerica-west1.run.app
 southampton.sch.uk
@@ -2571,6 +2555,7 @@ sumoto.hyogo.jp
 sumoto.kumamoto.jp
 sunagawa.hokkaido.jp
 sunderland.sch.uk
+suplisutadou.beget.app
 surrey.sch.uk
 susaki.kochi.jp
 susono.shizuoka.jp
@@ -2816,7 +2801,6 @@ uji.kyoto.jp
 ujiie.tochigi.jp
 ujitawara.kyoto.jp
 uk-1.platformsh.site
-uk-gov-london-1.oraclegovcloudapps.uk
 uk-london-1.oraclecloudapps.com
 uk.eu.org
 uk.gateway.dev
@@ -2827,7 +2811,6 @@ uk0.bigv.io
 uki.kumamoto.jp
 ukiha.fukuoka.jp
 uksouth.azurecontainer.io
-ukwest.azurecontainer.io
 um.gov.pl
 umaji.kochi.jp
 umi.fukuoka.jp
@@ -2919,10 +2902,8 @@ us-west-2.sagemaker.aws
 us-west1.run.app
 us-west2.run.app
 us-west3.run.app
-us-west4.run.app
 us.eu.org
 us.gov.pl
-us.magentosite.cloud
 us.ngrok.io
 us.platform.sh
 us.platformsh.site
@@ -2947,7 +2928,6 @@ uzs.gov.pl
 va.snowflake.app
 va2.snowflake.app
 va3.snowflake.app
-va4.snowflake.app
 valer.hedmark.no
 valer.ostfold.no
 vic.edu.au
@@ -2959,7 +2939,6 @@ vps.myjino.ru
 vs.mythic-beasts.com
 vscode-frontend.devinapps.com
 w-berks.sch.uk
-w-dunbarton.sch.uk
 w-sussex.sch.uk
 w.crm.dev
 wa.crm.dev
@@ -2999,8 +2978,6 @@ webpaas.ovh.net
 website-eu-central-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
 website-us-lax-1.linodeobjects.com
-website-us-ord-3.linodeobjects.com
-website-us-southeast-1.linodeobjects.com
 website.k2.cloud
 website.yandexcloud.net
 weeklylottery.org.uk
