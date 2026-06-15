@@ -4,7 +4,6 @@
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
-29.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
 430.xmit.co
@@ -17,7 +16,9 @@
 a.metaaiusercontent.com
 a.run.app
 a2.cloudera.site
+a4.cloudera.site
 a465-9q4k.cloudera.site
+a9.cloudera.site
 aa.crm.dev
 ab.crm.dev
 abashiri.hokkaido.jp
@@ -37,6 +38,7 @@ ad.crm.dev
 adachi.tokyo.jp
 addon.code.run
 adimo.co.uk
+ads-static.usercontent.goog
 ae.crm.dev
 ae.flow.ch
 af-south-1.amazonaws.com
@@ -55,6 +57,7 @@ aibetsu.hokkaido.jp
 aikawa.kanagawa.jp
 ainan.ehime.jp
 aioi.hyogo.jp
+aiplayables.usercontent.goog
 airflow.amazonaws.com
 aisai.aichi.jp
 aisho.shiga.jp
@@ -168,7 +171,6 @@ ap-southeast-7.amazoncognito.com
 ap-southeast-7.elasticbeanstalk.com
 ap-southeast-7.on.aws
 ap-sydney-1.oraclecloudapps.com
-ap-tokyo-1.oraclecloudapps.com
 ap.gov.br
 ap.gov.pl
 ap.leg.br
@@ -304,7 +306,6 @@ bracknell-forest.sch.uk
 bradford.sch.uk
 bremerton.wa.us
 brent.sch.uk
-bridgend.sch.uk
 brighton-hove.sch.uk
 bristol.sch.uk
 bromley.sch.uk
@@ -458,7 +459,6 @@ cn.eu.org
 co.biz.ng
 cog.mi.us
 com.futurecms.at
-com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
@@ -650,6 +650,7 @@ ew.gateway.dev
 ewr1.vultrobjects.com
 ex.futurecms.at
 ex.ortsinfo.at
+executionbox.usercontent.goog
 experiments.sagemaker.aws
 ezproxy.kuleuven.be
 falkirk.sch.uk
@@ -675,7 +676,6 @@ fr-4.platformsh.site
 fr-par-1.linodeobjects.com
 fr-par.scw.cloud
 fr.eu.org
-fra.appwrite.run
 fra1-de.cloudjiffy.net
 fra1.digitaloceanspaces.com
 francecentral.azurecontainer.io
@@ -731,6 +731,7 @@ gamo.shiga.jp
 gcp.snowflake.app
 gcpeuropewest4.snowflake.app
 gcpuscentral1.snowflake.app
+gea.nom.br
 gehirn.ne.jp
 geisei.kochi.jp
 gen.mi.us
@@ -1026,7 +1027,6 @@ instances.scw.cloud
 instances.spawn.cc
 int.eu.org
 inuyama.aichi.jp
-inverclyde.sch.uk
 inzai.chiba.jp
 iow.sch.uk
 ip.linodeusercontent.com
@@ -1055,6 +1055,7 @@ ishinomaki.miyagi.jp
 isk01.sakurastorage.jp
 isk02.sakurastorage.jp
 islington.sch.uk
+isolated.usercontent.goog
 isshiki.aichi.jp
 isumi.chiba.jp
 it-mil-1.linodeobjects.com
@@ -1116,7 +1117,6 @@ johana.toyama.jp
 joso.ibaraki.jp
 joyo.kyoto.jp
 jp-osa-1.linodeobjects.com
-jp-tyo-1.linodeobjects.com
 jp.eu.org
 jp.ngrok.io
 js.wpenginepowered.com
@@ -1302,6 +1302,7 @@ kazuno.akita.jp
 keisen.fukuoka.jp
 kembuchi.hokkaido.jp
 kent.sch.uk
+kepasedetbogklis.begetcdn.cloud
 keyport.wa.us
 kibichuo.okayama.jp
 kiho.mie.jp
@@ -1696,6 +1697,7 @@ mock.pstmn.io
 moka.tochigi.jp
 mokuren.ne.jp
 mombetsu.hokkaido.jp
+monmouthshire.sch.uk
 moray.sch.uk
 moriguchi.osaka.jp
 morimachi.shizuoka.jp
@@ -1735,7 +1737,6 @@ mutsuzawa.chiba.jp
 mw.gov.pl
 mx-central-1.amazoncognito.com
 mx-central-1.on.aws
-mx-queretaro-1.oraclecloudapps.com
 my.canva.site
 my.canvasite.cn
 my.eu.org
@@ -1890,7 +1891,6 @@ nonoichi.ishikawa.jp
 nordeste-idc.saveincloud.net
 norfolk.sch.uk
 northamerica-northeast1.run.app
-northamerica-northeast2.run.app
 northamerica-south1.run.app
 northants.sch.uk
 northcentralus.azurecontainer.io
@@ -2018,6 +2018,7 @@ ooshika.nagano.jp
 oow.gov.pl
 opal.ne.jp
 ora.gunma.jp
+origem.nom.br
 origin.cdn77-secure.org
 os.fedoraproject.org
 os.hedmark.no
@@ -2195,7 +2196,6 @@ ryokami.saitama.jp
 ryugasaki.ibaraki.jp
 ryuoh.shiga.jp
 rzgw.gov.pl
-s-gloucs.sch.uk
 s-lanark.sch.uk
 s.brave.app
 s.brave.dev
@@ -2289,6 +2289,7 @@ samukawa.kanagawa.jp
 sanagochi.tokushima.jp
 sanda.hyogo.jp
 sandbox.deno.net
+sandbox.usercontent.goog
 sande.more-og-romsdal.no
 sande.vestfold.no
 sande.xn--mre-og-romsdal-qqb.no
@@ -2378,7 +2379,6 @@ setouchi.okayama.jp
 settsu.osaka.jp
 sfo2.digitaloceanspaces.com
 sfo3.digitaloceanspaces.com
-sg-sin-1.linodeobjects.com
 sgp1.digitaloceanspaces.com
 sgp1.vultrobjects.com
 shakotan.hokkaido.jp
@@ -2473,6 +2473,7 @@ shoo.okayama.jp
 shop.brendly.ba
 shop.brendly.hr
 shop.brendly.rs
+shop.paywhirl.com
 showa.fukushima.jp
 showa.gunma.jp
 showa.yamanashi.jp
@@ -2788,6 +2789,7 @@ uchihara.ibaraki.jp
 uchiko.ehime.jp
 uchinada.ishikawa.jp
 uchinomi.kagawa.jp
+ucp.usercontent.goog
 uda.nara.jp
 udono.mie.jp
 ue.gateway.dev
@@ -2801,6 +2803,7 @@ uji.kyoto.jp
 ujiie.tochigi.jp
 ujitawara.kyoto.jp
 uk-1.platformsh.site
+uk-cardiff-1.oraclecloudapps.com
 uk-london-1.oraclecloudapps.com
 uk.eu.org
 uk.gateway.dev
@@ -2878,7 +2881,6 @@ us-gov-west-1.elasticbeanstalk.com
 us-gov-west-1.on.aws
 us-gov-west-1.sagemaker.aws
 us-iad-1.linodeobjects.com
-us-iad-10.linodeobjects.com
 us-lax-1.linodeobjects.com
 us-mia-1.linodeobjects.com
 us-ord-1.linodeobjects.com
@@ -2977,7 +2979,6 @@ web.val.run
 webpaas.ovh.net
 website-eu-central-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
-website-us-lax-1.linodeobjects.com
 website.k2.cloud
 website.yandexcloud.net
 weeklylottery.org.uk
