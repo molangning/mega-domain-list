@@ -3122,6 +3122,7 @@ miyagi.jp
 miyazaki.jp
 mjondalen.no
 mk.ua
+mkm.fan
 mktg.ec
 mlbfan.org
 mmafan.biz
@@ -3544,7 +3545,6 @@ nl.ca
 nl.no
 nm.cn
 nm.us
-nnic.np
 no-ip.biz
 no-ip.ca
 no-ip.info
