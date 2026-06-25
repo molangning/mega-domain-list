@@ -1153,14 +1153,17 @@ davvesiida.no
 daynight.jp
 dc.us
 ddns-ip.net
+ddns.berlin
 ddns.me
 ddns.net
+ddns.wtf
 ddnsfree.com
 ddnsgeek.com
 ddnsguru.com
 ddnsking.com
 ddnss.de
 ddnss.org
+ddnssec.de
 de.com
 de.cool
 de.us
@@ -1238,7 +1241,11 @@ dnsdojo.com
 dnsdojo.net
 dnsdojo.org
 dnsfor.me
+dnshome.at
+dnshome.cloud
 dnshome.de
+dnshome.eu
+dnshome.it
 dnsiskinky.com
 dnsking.ch
 dnsup.net
@@ -1288,6 +1295,7 @@ dy.fi
 dyn-berlin.de
 dyn-ip24.de
 dyn-o-saur.com
+dyn.now
 dynalias.com
 dynalias.net
 dynalias.org
@@ -1314,6 +1322,7 @@ dyndns.org
 dyndns.tv
 dyndns.ws
 dyndns1.de
+dyndnssec.de
 dynns.com
 dynserv.org
 dynu.net
@@ -2190,6 +2199,8 @@ health.nz
 health.vn
 heavy.jp
 hedmark.no
+heimdns.de
+heimdns.online
 heiyu.space
 helioho.st
 heliohost.us
@@ -4140,6 +4151,9 @@ pulawy.pl
 punyu.jp
 pupu.jp
 pussycat.jp
+puter.app
+puter.site
+puter.work
 pv.it
 pvh.br
 pvt.ge
@@ -4253,6 +4267,7 @@ reservd.com
 reserve-online.net
 resindevice.io
 resinstaging.io
+resolve.bar
 restaurant.bj
 resto.bj
 revista.bo
@@ -4600,6 +4615,7 @@ srcf.net
 srht.site
 srv.br
 srv.us
+srvdns.de
 sryze.cc
 ss.it
 st.no
