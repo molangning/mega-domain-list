@@ -3400,7 +3400,6 @@ net.do
 net.dz
 net.ec
 net.eg
-net.er
 net.et
 net.fj
 net.fk
