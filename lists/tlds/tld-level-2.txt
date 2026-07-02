@@ -2979,7 +2979,6 @@ matlab.cloud
 matrix.jp
 matta-varjjat.no
 mayfirst.info
-mayfirst.org
 mazowsze.pl
 mazury.pl
 mb.ca
