@@ -3554,7 +3554,6 @@ nl.ca
 nl.no
 nm.cn
 nm.us
-nnic.np
 no-ip.biz
 no-ip.ca
 no-ip.info
