@@ -2115,6 +2115,7 @@ greater.jp
 grebedoc.dev
 greta.fr
 grimstad.no
+grok.me
 groks-the.info
 groks-this.info
 grondar.za
@@ -4845,6 +4846,7 @@ transurl.eu
 transurl.nl
 trapani.it
 travel.in
+travel.np
 travel.pl
 travinh.vn
 trd.br
