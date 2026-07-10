@@ -2,9 +2,7 @@
 airflow.cn-north-1.on.amazonwebservices.com.cn
 airflow.cn-northwest-1.on.amazonwebservices.com.cn
 auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
-cjz7ulo3eun8.rds.cn-north-1.amazonaws.com.cn
 cpu3q596meej.rds.cn-north-1.amazonaws.com.cn
-cwwjfndaswaa.rds.cn-north-1.amazonaws.com.cn
 s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
 s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
 s3-website.dualstack.cn-north-1.amazonaws.com.cn
