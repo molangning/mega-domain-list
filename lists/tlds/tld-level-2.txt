@@ -79,7 +79,6 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
-ac.fk
 ac.gn
 ac.id
 ac.il
@@ -1993,7 +1992,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
