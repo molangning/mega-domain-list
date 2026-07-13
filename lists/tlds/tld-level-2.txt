@@ -79,6 +79,7 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
+ac.fk
 ac.gn
 ac.id
 ac.il
@@ -1992,6 +1993,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3617,6 +3619,7 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
+ns.jm
 nsn.us
 nsupdate.info
 nsw.au
