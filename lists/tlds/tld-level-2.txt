@@ -109,7 +109,6 @@ ac.rw
 ac.se
 ac.sz
 ac.th
-ac.tj
 ac.tz
 ac.ug
 ac.uk
@@ -147,6 +146,7 @@ aem.live
 aem.network
 aem.page
 aem.reviews
+aero.in
 aero.mv
 aerobatic.aero
 aeroclub.aero
@@ -223,6 +223,7 @@ alta.no
 altervista.org
 alto-adige.it
 altoadige.it
+alumni.in
 alvdal.no
 alwaysdata.net
 am.br
@@ -336,7 +337,7 @@ atlassian-isolated-3p.com
 atm.pl
 atmeta.com
 ato.br
-audnedaln.no
+audnedal.no
 augustow.pl
 auiusercontent.com
 aukra.no
@@ -1121,6 +1122,7 @@ customer-oci.com
 cutegirl.jp
 cv.ua
 cx.ua
+cyb.ge
 cyon.link
 cyon.site
 cz.it
@@ -1738,7 +1740,6 @@ freeddns.us
 freedesktop.org
 freemyip.com
 freesite.host
-frei.no
 freight.aero
 frenchkiss.jp
 friuli-v-giulia.it
@@ -1876,6 +1877,7 @@ ggf.br
 ggff.net
 gialai.vn
 giehtavuoatna.no
+gielda.no
 gifu.jp
 giize.com
 gildeskal.no
@@ -2256,6 +2258,7 @@ holtalen.no
 holy.jp
 home-webserver.de
 home.arpa
+home64.de
 homebuilt.aero
 homedns.org
 homeftp.net
@@ -2464,6 +2467,8 @@ ip-ddns.com
 ip-dynamic.org
 ip6.arpa
 ipifony.net
+ipv64.de
+ipv64.net
 ir.md
 iris.arpa
 is-a-anarchist.com
@@ -2856,6 +2861,7 @@ littlestar.jp
 live-on.net
 live-website.com
 livorno.it
+llc.ge
 ln.cn
 lo.it
 loabat.no
@@ -3246,6 +3252,7 @@ myfritz.link
 myfritz.net
 myftp.biz
 myftp.org
+mygov.scot
 myhome-server.de
 myiphost.com
 myjino.ru
@@ -3535,7 +3542,6 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
-nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
@@ -3702,6 +3708,7 @@ ong.br
 onhercules.app
 onid.ca
 oninferno.net
+online.ge
 online.th
 onporter.run
 onrender.com
@@ -4219,6 +4226,7 @@ rdpa.co
 rdy.jp
 re.it
 re.kr
+re.no
 read-books.org
 readmyblog.org
 readthedocs-hosted.com
@@ -4409,6 +4417,7 @@ sch.wf
 sch.zm
 schokokeks.net
 school.ge
+school.in
 school.nz
 school.za
 schoolbus.jp
@@ -4685,6 +4694,7 @@ sumy.ua
 sund.no
 sunndal.no
 sunnyday.jp
+suohkan.no
 supabase.co
 supabase.in
 supabase.net
@@ -4782,6 +4792,7 @@ tingvoll.no
 tinn.no
 tj.cn
 tjeldsund.no
+tjielte.no
 tjome.no
 tksat.bo
 tlon.network
@@ -4799,6 +4810,7 @@ tm.za
 tmp.br
 tn.it
 tn.us
+tnx.ge
 to.it
 tochigi.jp
 togliatti.su
@@ -4944,10 +4956,12 @@ tysnes.no
 tysvar.no
 u.bg
 u.se
+ub.in
 uber.space
 ud.it
 udi.br
 udine.it
+uenorge.no
 ufcfan.org
 uh-oh.jp
 uio.ec
@@ -4958,6 +4972,7 @@ uk.net
 ullensaker.no
 ullensvang.no
 ulsan.kr
+ulstein.no
 ulvik.no
 umb.it
 umbria.it
@@ -5336,6 +5351,7 @@ xn--h-2fa.no
 xn--h1ahn.xn--p1acf
 xn--h1aliz.xn--p1acf
 xn--h3cuzk1di.xn--o3cw4h
+xn--hamary-fya.no
 xn--hbmer-xqa.no
 xn--hcesuolo-7ya35b.no
 xn--hebda8b.xn--4dbrk0ce
@@ -5357,6 +5373,7 @@ xn--j1ael8b.xn--p1acf
 xn--jlster-bya.no
 xn--jrpeland-54a.no
 xn--k7yn95e.jp
+xn--karlsy-fya.no
 xn--karmy-yua.no
 xn--kbrq7o.jp
 xn--kfjord-iua.no
