@@ -1995,6 +1995,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
