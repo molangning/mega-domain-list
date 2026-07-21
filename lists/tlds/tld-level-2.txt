@@ -1106,7 +1106,6 @@ cri.nz
 crimea.ua
 crm.dev
 crotone.it
-cryptonomic.net
 cs.in
 cs.it
 csb.app
@@ -1995,7 +1994,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
@@ -4645,7 +4643,6 @@ statichost.page
 statics.cloud
 stavanger.no
 stavern.no
-stdlib.com
 steigen.no
 steinkjer.no
 stg.dev
@@ -4669,7 +4666,6 @@ store.st
 store.ve
 storebase.store
 storfjord.no
-storj.farm
 strand.no
 stranda.no
 strapiapp.com
@@ -4684,9 +4680,12 @@ student.aero
 stuff-4-sale.org
 stuff-4-sale.us
 stufftoread.com
+su.it
 sub.jp
 subsc-pay.com
 subsc-pay.net
+sud-sardegna.it
+sudsardegna.it
 suedtirol.it
 sula.no
 suldal.no
@@ -4860,6 +4859,7 @@ transurl.eu
 transurl.nl
 trapani.it
 travel.in
+travel.np
 travel.pl
 travinh.vn
 trd.br
@@ -4886,7 +4886,6 @@ trentinoaltoadige.it
 trentinos-tirol.it
 trentinostirol.it
 trentinosud-tirol.it
-trentinosudtirol.it
 trentinosued-tirol.it
 trentinosuedtirol.it
 trentinsud-tirol.it
@@ -5037,7 +5036,6 @@ val-d-aosta.it
 val-daosta.it
 val.run
 vald-aosta.it
-valdaosta.it
 valle-aosta.it
 valle-d-aosta.it
 valle-daosta.it
@@ -5072,6 +5070,7 @@ venezia.it
 venice.it
 vennesla.no
 verbania.it
+verbano-cusio-ossola.it
 vercel.app
 vercel.dev
 vercel.run
