@@ -79,7 +79,6 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
-ac.fk
 ac.gn
 ac.id
 ac.il
@@ -272,7 +271,6 @@ appwrite.global
 appwrite.network
 appwrite.run
 aq.it
-aquila.it
 ar.it
 ar.us
 architectes.bj
@@ -496,7 +494,6 @@ biella.it
 bielsko.pl
 bieszczady.pl
 bievat.no
-bigv.io
 bihar.in
 bindal.no
 binhdinh.vn
@@ -1994,6 +1991,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -2310,7 +2308,6 @@ hvaler.no
 hyllestad.no
 hyogo.jp
 hypernode.io
-hzc.io
 i.bg
 i.ng
 i.ph
@@ -3624,7 +3621,6 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
-ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -4130,7 +4126,6 @@ prof.pr
 profesional.bo
 project-study.com
 project.space
-protonet.io
 pruszkow.pl
 prvcy.page
 prvw.eu
