@@ -79,7 +79,6 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
-ac.fk
 ac.gn
 ac.id
 ac.il
@@ -3620,6 +3619,7 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
+ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -4025,6 +4025,7 @@ pl.ua
 platform.sh
 platformsh.site
 platter-app.dev
+playcode.site
 playit.plus
 playstation-cloud.com
 plc.ly
