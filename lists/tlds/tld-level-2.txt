@@ -3620,6 +3620,7 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
+ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -3684,7 +3685,6 @@ olsztyn.pl
 omasvuotna.no
 omg.lol
 omniwe.site
-on-acorn.io
 on-aptible.com
 on-fleek.app
 on-forge.com
