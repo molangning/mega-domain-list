@@ -2,31 +2,37 @@
 1.azurestaticapps.net
 114.xmit.co
 115.xmit.co
+131.xmit.co
 147.xmit.co
 15.xmit.co
 172.xmit.co
 181.xmit.co
 2.azurestaticapps.net
+209.xmit.co
 214.xmit.co
 216.xmit.co
 29.xmit.co
-296.xmit.co
 3.azurestaticapps.net
+3.xmit.co
 4.azurestaticapps.net
 43.xmit.co
 430.xmit.co
 438.xmit.co
+439.xmit.co
 45.xmit.co
 48.xmit.co
 5.azurestaticapps.net
 5.xmit.co
 57.xmit.co
 6.azurestaticapps.net
+6.xmit.co
 68.xmit.co
 69.xmit.co
 7.azurestaticapps.net
 a.metaaiusercontent.com
 a.run.app
+a0.cloudera.site
+a4.cloudera.site
 a465-9q4k.cloudera.site
 aa.crm.dev
 ab.crm.dev
@@ -263,6 +269,7 @@ awsapnortheast1.snowflake.app
 awsapsouth1.snowflake.app
 awsapsoutheast1sg.snowflake.app
 awseuwest2.snowflake.app
+awseuwest3.snowflake.app
 awsuseast2.snowflake.app
 aya.miyazaki.jp
 ayabe.kyoto.jp
@@ -284,6 +291,7 @@ bainbridge-isl.wa.us
 bandai.fukushima.jp
 bando.ibaraki.jp
 baremetal.scw.cloud
+barking-dagenham.sch.uk
 barnet.sch.uk
 barsy.co.uk
 barsyonline.co.uk
@@ -334,7 +342,6 @@ bury.sch.uk
 buzen.fukuoka.jp
 c.cdn77.org
 c.ts.net
-c0.cloudera.site
 ca-1.platformsh.site
 ca-central-1.amazonaws.com
 ca-central-1.amazoncognito.com
@@ -477,6 +484,7 @@ cn.eu.org
 co.biz.ng
 cog.mi.us
 com.futurecms.at
+com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
@@ -484,7 +492,6 @@ core.usgovcloudapi.net
 core.windows.net
 cornwall.sch.uk
 cortex.snowflake.app
-costa.nom.br
 coventry.sch.uk
 croydon.sch.uk
 cs.keliweb.cloud
@@ -1026,6 +1033,7 @@ imabari.ehime.jp
 imakane.hokkaido.jp
 imari.saga.jp
 imizu.toyama.jp
+in-bom-1.linodeobjects.com
 in-maa-1.linodeobjects.com
 in.eu.org
 in.futurecms.at
@@ -1939,7 +1947,6 @@ northants.sch.uk
 northcentralus.azurecontainer.io
 northeurope.azurecontainer.io
 northumberland.sch.uk
-norwayeast.azurecontainer.io
 nose.osaka.jp
 nosegawa.nara.jp
 noshiro.akita.jp
@@ -2098,7 +2105,6 @@ ouchi.saga.jp
 ouda.nara.jp
 oum.gov.pl
 oumu.hokkaido.jp
-ovh-fr-2.platformsh.site
 owani.aomori.jp
 owariasahi.aichi.jp
 oxon.sch.uk
@@ -2369,6 +2375,7 @@ sc.leg.br
 scalebook.scw.cloud
 scaleforce.com.cy
 scf.usercontent.goog
+scilly.sch.uk
 scotborders.sch.uk
 sdmntpraueastdr.oaiusercontent.com
 sdmntpraustraliaeast.oaiusercontent.com
@@ -2433,6 +2440,7 @@ setagaya.tokyo.jp
 seto.aichi.jp
 setouchi.okayama.jp
 settsu.osaka.jp
+sfdata--utc--57mwdzw8qn8f.code.run
 sfo2.digitaloceanspaces.com
 sfo3.digitaloceanspaces.com
 sg-sin-1.linodeobjects.com
@@ -2571,6 +2579,7 @@ southampton.sch.uk
 southcentralus.azurecontainer.io
 southeastasia.azurecontainer.io
 southend.sch.uk
+southindia.azurecontainer.io
 southwark.sch.uk
 sowa.ibaraki.jp
 sp.gov.br
@@ -2593,9 +2602,7 @@ static.usercontent.goog
 stg-builder.code.com
 stg.fedoraproject.org
 sth.ac.at
-stirling.sch.uk
 stockport.sch.uk
-stockton.sch.uk
 stoke.sch.uk
 storage.supabase.co
 storage.yandexcloud.net
@@ -3060,7 +3067,6 @@ wigan.sch.uk
 wiih.gov.pl
 wilts.sch.uk
 winb.gov.pl
-windsor-maidenhead.sch.uk
 wios.gov.pl
 wirral.sch.uk
 witd.gov.pl
