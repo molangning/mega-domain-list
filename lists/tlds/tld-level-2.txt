@@ -79,6 +79,7 @@ ac.cr
 ac.cy
 ac.eg
 ac.fj
+ac.fk
 ac.gn
 ac.id
 ac.il
@@ -1989,7 +1990,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3535,7 +3535,6 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
-nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
@@ -3619,6 +3618,7 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
+ns.jm
 nsn.us
 nsupdate.info
 nsw.au
