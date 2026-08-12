@@ -1990,6 +1990,7 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
+gov.er
 gov.et
 gov.fj
 gov.fk
@@ -3535,6 +3536,7 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
+nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
