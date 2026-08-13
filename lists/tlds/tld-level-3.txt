@@ -1,4 +1,3 @@
-0.xmit.co
 1.azurestaticapps.net
 114.xmit.co
 15.xmit.co
@@ -9,9 +8,10 @@
 29.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
-430.xmit.co
+43.xmit.co
 438.xmit.co
 5.azurestaticapps.net
+500.xmit.co
 6.azurestaticapps.net
 68.xmit.co
 69.xmit.co
@@ -183,7 +183,6 @@ ap.ngrok.io
 api.gov.uk
 api.lp.dev
 app.paywhirl.com
-app.platformsh.site
 app.render.com
 appengine.flow.ch
 apps.fbsbx.com
@@ -257,7 +256,6 @@ awsapnortheast1.snowflake.app
 awsapsouth1.snowflake.app
 awsapsoutheast1sg.snowflake.app
 awseuwest2.snowflake.app
-awseuwest3.snowflake.app
 awsuseast2.snowflake.app
 aya.miyazaki.jp
 ayabe.kyoto.jp
@@ -309,7 +307,6 @@ bo.nordland.no
 bo.telemark.no
 bolton.sch.uk
 bones.replit.dev
-bot.platformsh.site
 bournemouth.sch.uk
 br-gru-1.linodeobjects.com
 bracknell-forest.sch.uk
@@ -343,7 +340,6 @@ ca-west-1.on.aws
 ca-west-1.sagemaker.aws
 ca.eu.org
 ca.reclaim.cloud
-caerphilly.sch.uk
 calderdale.sch.uk
 cambs.sch.uk
 camden.sch.uk
@@ -419,13 +415,13 @@ cdn.digitaloceanspaces.com
 ce.gov.br
 ce.leg.br
 centralia.wa.us
+centralindia.azurecontainer.io
 centralus.azurecontainer.io
 centralus.azurestaticapps.net
 ceredigion.sch.uk
 ch-1.platformsh.site
 ch.eu.org
 ch.trendhosting.cloud
-chat.platformsh.site
 chehalis.wa.us
 cheshire.sch.uk
 chichibu.saitama.jp
@@ -460,7 +456,6 @@ chuo.tokyo.jp
 chuo.yamanashi.jp
 ci.crm.dev
 clacks.sch.uk
-client.platformsh.site
 client.scrypted.io
 cloud.fedoraproject.org
 cloud.int.apple
@@ -475,13 +470,13 @@ cn.eu.org
 co.biz.ng
 cog.mi.us
 com.futurecms.at
-com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
 core.usgovcloudapi.net
 core.windows.net
 cornwall.sch.uk
+cortex.snowflake.app
 costa.nom.br
 coventry.sch.uk
 croydon.sch.uk
@@ -493,6 +488,7 @@ customer.mythic-beasts.com
 customer.speedpartner.de
 cy.eu.org
 cz.eu.org
+d.0emm.com
 d.crm.dev
 d.gv.vc
 d6.ply.gg
@@ -502,7 +498,6 @@ daisen.akita.jp
 daito.osaka.jp
 daiwa.hiroshima.jp
 darlington.sch.uk
-dashboard.platformsh.site
 date.fukushima.jp
 date.hokkaido.jp
 dazaifu.fukuoka.jp
@@ -525,7 +520,6 @@ dev.adobeaemcloud.com
 dev.futurecms.at
 dev.project-study.com
 dev.thingdust.io
-developer.platformsh.site
 devices.resinstaging.io
 devon.sch.uk
 df.gov.br
@@ -617,6 +611,7 @@ eu-central-2.amazoncognito.com
 eu-central-2.on.aws
 eu-central-2.sagemaker.aws
 eu-frankfurt-1.oraclecloudapps.com
+eu-madrid-1.oraclecloudapps.com
 eu-north-1.amazonaws.com
 eu-north-1.amazoncognito.com
 eu-north-1.elasticbeanstalk.com
@@ -758,7 +753,6 @@ futtsu.chiba.jp
 gamagori.aichi.jp
 gamo.shiga.jp
 gateshead.sch.uk
-gb-lon-1.linodeobjects.com
 gcp.snowflake.app
 gcpeuropewest4.snowflake.app
 gcpuscentral1.snowflake.app
@@ -975,6 +969,7 @@ hosting.ovh.net
 hounslow.sch.uk
 hr.eu.org
 hu.eu.org
+hulafoplosubez.begetcdn.cloud
 hull.sch.uk
 hyuga.miyazaki.jp
 ibara.okayama.jp
@@ -1030,6 +1025,7 @@ imabari.ehime.jp
 imakane.hokkaido.jp
 imari.saga.jp
 imizu.toyama.jp
+in-bom-1.linodeobjects.com
 in-maa-1.linodeobjects.com
 in.eu.org
 in.futurecms.at
@@ -1061,7 +1057,6 @@ instance.datadetect.com
 instances.scw.cloud
 instances.spawn.cc
 int.eu.org
-interactive-browser-neepvmmnbrrbbmom.devinapps.com
 inuyama.aichi.jp
 inverclyde.sch.uk
 inzai.chiba.jp
@@ -1870,7 +1865,6 @@ nemuro.hokkaido.jp
 nerima.tokyo.jp
 nes.akershus.no
 nes.buskerud.no
-net.cn.st
 net.eu.org
 newcastle.sch.uk
 newham.sch.uk
@@ -1918,7 +1912,6 @@ niyodogawa.kochi.jp
 nl-ams-1.linodeobjects.com
 nl-ams.scw.cloud
 nl.eu.org
-nl.transurl.nl
 no-ip.co.uk
 no.eu.org
 nobeoka.miyazaki.jp
@@ -2123,7 +2116,6 @@ paas.massivegrid.com
 paas.massivegrid.net
 pages.torproject.net
 pages.wiardweb.com
-panel.platformsh.site
 paris.replit.dev
 payflow--payflow-production--nz6yjkmdcp2k.code.run
 pb.crm.dev
@@ -2185,6 +2177,7 @@ qld.edu.au
 qld.gov.au
 r.appspot.com
 r.cdn77.net
+rac.sch.uk
 raffleentry.org.uk
 rag-cloud-ch.hosteur.com
 rag-cloud.hosteur.com
@@ -2368,6 +2361,7 @@ sc.leg.br
 scalebook.scw.cloud
 scaleforce.com.cy
 scf.usercontent.goog
+scilly.sch.uk
 scotborders.sch.uk
 sdmntpraueastdr.oaiusercontent.com
 sdmntpraustraliaeast.oaiusercontent.com
@@ -2725,7 +2719,6 @@ tenri.nara.jp
 teshikaga.hokkaido.jp
 testing.thingdust.io
 thurrock.sch.uk
-tirol.futurecms.at
 tn.oxa.cloud
 to.gov.br
 to.leg.br
@@ -2980,7 +2973,6 @@ utsunomiya.tochigi.jp
 uw.gov.pl
 uwajima.ehime.jp
 uzs.gov.pl
-v2.platformsh.site
 va.snowflake.app
 va2.snowflake.app
 va3.snowflake.app
