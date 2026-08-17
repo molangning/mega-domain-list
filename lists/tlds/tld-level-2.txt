@@ -502,6 +502,7 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
+bio.np
 bir.ru
 birkenes.no
 bitbucket.io
@@ -3536,6 +3537,7 @@ nh.us
 nhlfan.net
 nhs.uk
 nic.in
+nic.pg
 nic.tj
 nic.za
 nieruchomosci.pl
@@ -3619,7 +3621,6 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
-ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -3973,6 +3974,7 @@ paywhirl.com
 pb.ao
 pc.it
 pc.pl
+pch.pg
 pd.it
 pdns.page
 pe.ca
