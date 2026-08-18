@@ -125,7 +125,6 @@ acct.pro
 act.au
 activetrail.biz
 ad.jp
-adaptable.app
 addr.tools
 adm.br
 adm.ec
@@ -502,7 +501,6 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
-bio.np
 bir.ru
 birkenes.no
 bitbucket.io
@@ -898,6 +896,8 @@ cocotte.jp
 code.com
 code.run
 codeberg.page
+codepen.app
+codepen.dev
 codespot.com
 col.ng
 collegefan.org
@@ -1116,6 +1116,7 @@ cue.ec
 cuiaba.br
 cuneo.it
 curitiba.br
+cursorusercontent.com
 customer-oci.com
 cutegirl.jp
 cv.ua
@@ -2213,6 +2214,7 @@ herad.no
 hercules-app.com
 hercules-dev.com
 here-for-more.info
+here.now
 herokuapp.com
 heteml.net
 heyflow.page
@@ -3701,6 +3703,7 @@ ong.br
 onhercules.app
 onid.ca
 oninferno.net
+online-server.cloud
 online.ge
 online.th
 onporter.run
@@ -4424,6 +4427,7 @@ scrapping.cc
 scrypted.io
 scrysec.com
 scw.cloud
+scw.site
 sd.cn
 sd.us
 sdscloud.pl
