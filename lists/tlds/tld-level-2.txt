@@ -501,6 +501,7 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
+bio.np
 bir.ru
 birkenes.no
 bitbucket.io
@@ -748,6 +749,7 @@ ck.ua
 cl.it
 clan.rip
 claude.app
+claudeusercontent.com
 cldmail.ru
 clerk.app
 clerkstage.app
@@ -3076,6 +3078,7 @@ mil.id
 mil.in
 mil.io
 mil.iq
+mil.jm
 mil.jo
 mil.kg
 mil.km
