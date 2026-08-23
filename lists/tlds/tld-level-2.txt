@@ -3077,7 +3077,6 @@ mil.id
 mil.in
 mil.io
 mil.iq
-mil.jm
 mil.jo
 mil.kg
 mil.km
@@ -3626,6 +3625,7 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
+ns.jm
 nsn.us
 nsupdate.info
 nsw.au
