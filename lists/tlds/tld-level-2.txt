@@ -3077,6 +3077,7 @@ mil.id
 mil.in
 mil.io
 mil.iq
+mil.jm
 mil.jo
 mil.kg
 mil.km
