@@ -501,6 +501,7 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
+bio.np
 bir.ru
 birkenes.no
 bitbucket.io
