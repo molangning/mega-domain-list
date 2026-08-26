@@ -1,14 +1,9 @@
 1.azurestaticapps.net
-114.xmit.co
-15.xmit.co
 172.xmit.co
 2.azurestaticapps.net
 214.xmit.co
-29.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
-43.xmit.co
-430.xmit.co
 438.xmit.co
 5.azurestaticapps.net
 6.azurestaticapps.net
@@ -242,7 +237,6 @@ at.playit.plus
 at.ply.gg
 atami.shizuoka.jp
 atl1.digitaloceanspaces.com
-atl2.vultrobjects.com
 atsugi.kanagawa.jp
 atsuma.hokkaido.jp
 au-2.platformsh.site
@@ -251,17 +245,14 @@ au.ngrok.io
 au.platformsh.site
 au.snowflake.app
 australia-southeast1.run.app
-australia-southeast2.run.app
 australiaeast.azurecontainer.io
 australiasoutheast.azurecontainer.io
-autocall--serverautocall--yh4cgzrdywjc.code.run
 awaji.hyogo.jp
 aws.snowflake.app
 awsapnortheast1.snowflake.app
 awsapsouth1.snowflake.app
 awsapsoutheast1sg.snowflake.app
 awseuwest2.snowflake.app
-awseuwest3.snowflake.app
 awsuseast2.snowflake.app
 aya.miyazaki.jp
 ayabe.kyoto.jp
@@ -270,6 +261,8 @@ ayase.kanagawa.jp
 az-westeurope-1.magentosite.cloud
 azeastus2prod.snowflake.app
 azeastus2prodshard2.snowflake.app
+azjapaneast.snowflake.app
+aznortheurope.snowflake.app
 azsouthcentralus.snowflake.app
 azumino.nagano.jp
 azure.snowflake.app
@@ -282,6 +275,7 @@ b0.cloudera.site
 ba.gov.br
 ba.leg.br
 bainbridge-isl.wa.us
+bakuturaquoga.begetcdn.cloud
 bandai.fukushima.jp
 bando.ibaraki.jp
 baremetal.scw.cloud
@@ -480,18 +474,17 @@ co.biz.ng
 cog.mi.us
 com.futurecms.at
 com.transurl.nl
+com.user.fm
 compute-1.amazonaws.com
 compute.amazonaws.com
 conwy.sch.uk
 core.usgovcloudapi.net
 core.windows.net
 cornwall.sch.uk
-costa.nom.br
 coventry.sch.uk
 croydon.sch.uk
 cs.keliweb.cloud
 cumbria.sch.uk
-cunha.nom.br
 cust.cloudscale.ch
 custom.metacentrum.cz
 customer.mythic-beasts.com
@@ -717,6 +710,7 @@ frame.claudeusercontent.com
 francecentral.azurecontainer.io
 freetls.fastly.net
 frontend.encr.app
+frosaquagefokor.begetcdn.cloud
 fuchu.hiroshima.jp
 fuchu.tokyo.jp
 fuchu.toyama.jp
@@ -770,7 +764,6 @@ gb-lon-1.linodeobjects.com
 gcp.snowflake.app
 gcpeuropewest4.snowflake.app
 gcpuscentral1.snowflake.app
-gea.nom.br
 gehirn.ne.jp
 geisei.kochi.jp
 gen.mi.us
@@ -808,6 +801,7 @@ goto.nagasaki.jp
 gotsu.shimane.jp
 gov.nc.tr
 gr.eu.org
+grafana-visualisation.aivencloud.com
 greenwich.sch.uk
 griw.gov.pl
 gs.aa.no
@@ -931,7 +925,6 @@ higashiyama.kyoto.jp
 higashiyamato.tokyo.jp
 higashiyodogawa.osaka.jp
 higashiyoshino.nara.jp
-highland.sch.uk
 hiji.oita.jp
 hikari.yamaguchi.jp
 hikawa.shimane.jp
@@ -1004,6 +997,7 @@ ichinohe.iwate.jp
 ichinomiya.aichi.jp
 ichinomiya.chiba.jp
 ichinoseki.iwate.jp
+icm1.icp.net
 id-cgk-1.linodeobjects.com
 id.firewalledreplit.co
 id.forgerock.io
@@ -1042,6 +1036,7 @@ imabari.ehime.jp
 imakane.hokkaido.jp
 imari.saga.jp
 imizu.toyama.jp
+in-bom-1.linodeobjects.com
 in-maa-1.linodeobjects.com
 in.eu.org
 in.futurecms.at
@@ -1087,7 +1082,6 @@ ipns.dweb.link
 ipns.inbrowser.link
 iran.liara.run
 iruma.saitama.jp
-irzs-oc98.cloudera.site
 is.eu.org
 is.gov.pl
 isa.kagoshima.jp
@@ -1576,7 +1570,6 @@ lib.wy.us
 lincs.sch.uk
 liverpool.sch.uk
 lon1.digitaloceanspaces.com
-london.sch.uk
 lpg.cloudscale.ch
 lpg.objectstorage.ch
 lpool.sch.uk
@@ -2045,6 +2038,7 @@ okuizumo.shimane.jp
 okuma.fukushima.jp
 okutama.tokyo.jp
 oldham.sch.uk
+oliva.nom.br
 olympia.wa.us
 omachi.nagano.jp
 omachi.saga.jp
@@ -2200,7 +2194,6 @@ qld.edu.au
 qld.gov.au
 r.appspot.com
 r.cdn77.net
-rac.sch.uk
 raffleentry.org.uk
 rag-cloud-ch.hosteur.com
 rag-cloud.hosteur.com
@@ -2587,7 +2580,6 @@ southampton.sch.uk
 southcentralus.azurecontainer.io
 southeastasia.azurecontainer.io
 southend.sch.uk
-southindia.azurecontainer.io
 southwark.sch.uk
 sowa.ibaraki.jp
 sp.gov.br
@@ -2855,6 +2847,7 @@ tucker.replit.dev
 u.channelsdvr.net
 u2-local.xnbay.com
 u2.xnbay.com
+uaenorth.azurecontainer.io
 ube.yamaguchi.jp
 uc.gateway.dev
 uchihara.ibaraki.jp
@@ -2884,7 +2877,6 @@ uk.reclaim.cloud
 uki.kumamoto.jp
 ukiha.fukuoka.jp
 uksouth.azurecontainer.io
-ukwest.azurecontainer.io
 um.gov.pl
 umaji.kochi.jp
 umi.fukuoka.jp
@@ -2952,9 +2944,7 @@ us-gov-west-1.elasticbeanstalk.com
 us-gov-west-1.on.aws
 us-gov-west-1.sagemaker.aws
 us-iad-1.linodeobjects.com
-us-iad-10.linodeobjects.com
 us-lax-1.linodeobjects.com
-us-lax-4.linodeobjects.com
 us-mia-1.linodeobjects.com
 us-ord-1.linodeobjects.com
 us-ord-10.linodeobjects.com
@@ -3005,6 +2995,7 @@ va.snowflake.app
 va2.snowflake.app
 va3.snowflake.app
 va4.snowflake.app
+valeofglamorgan.sch.uk
 valer.hedmark.no
 valer.ostfold.no
 vic.edu.au
@@ -3056,7 +3047,6 @@ web.val.run
 webpaas.ovh.net
 website-eu-central-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
-website-us-lax-1.linodeobjects.com
 website.k2.cloud
 website.yandexcloud.net
 weeklylottery.org.uk
