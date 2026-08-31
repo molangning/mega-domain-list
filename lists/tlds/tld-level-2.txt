@@ -500,6 +500,7 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
+bio.np
 bir.ru
 birkenes.no
 bitbucket.io
@@ -3978,7 +3979,6 @@ paywhirl.com
 pb.ao
 pc.it
 pc.pl
-pch.pg
 pd.it
 pdns.page
 pe.ca
