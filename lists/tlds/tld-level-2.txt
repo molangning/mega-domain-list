@@ -619,6 +619,7 @@ bubbleapps.io
 budejju.no
 build.run
 builtwithdark.com
+builtwithrocket.new
 bukhara.su
 bulsan-sudtirol.it
 bulsan-suedtirol.it
@@ -669,6 +670,7 @@ candypop.jp
 cantho.vn
 canva-apps.cn
 canva-apps.com
+canva-code.cn
 canva-hosted-embed.com
 canva.link
 canva.run
@@ -1144,7 +1146,6 @@ danang.vn
 dappnode.io
 darklang.io
 database.run
-datacenter.fi
 datadetect.com
 dattolocal.com
 dattolocal.net
@@ -1576,6 +1577,8 @@ est-le-patron.com
 est-mon-blogueur.com
 est.pr
 etc.br
+eth.limo
+eth.link
 eti.br
 etne.no
 etnedal.no
@@ -3405,6 +3408,7 @@ net.do
 net.dz
 net.ec
 net.eg
+net.er
 net.et
 net.fj
 net.fk
@@ -4303,6 +4307,7 @@ rm.it
 rn.it
 ro.it
 roan.no
+rocketpreview.app
 rocky.page
 rodoy.no
 rollag.no
@@ -4809,6 +4814,7 @@ tm.ro
 tm.se
 tm.za
 tmp.br
+tmp.now
 tn.it
 tn.us
 tnx.ge
@@ -5547,7 +5553,6 @@ xn--ygarden-p1a.no
 xn--ystre-slidre-ujb.no
 xn--zbx025d.jp
 xn--zf0avx.hk
-xnbay.com
 xs4all.space
 xtooldevice.com
 xx.kg
