@@ -501,6 +501,7 @@ binhduong.vn
 binhphuoc.vn
 binhthuan.vn
 bio.br
+bio.np
 bir.ru
 birkenes.no
 bitbucket.io
@@ -1996,7 +1997,6 @@ gov.dz
 gov.ec
 gov.ee
 gov.eg
-gov.er
 gov.et
 gov.fj
 gov.fk
