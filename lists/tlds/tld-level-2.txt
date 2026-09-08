@@ -173,6 +173,7 @@ ai.id
 ai.in
 ai.jo
 ai.kr
+ai.studio
 ai.vn
 aichi.jp
 aid.pl
@@ -763,6 +764,7 @@ clickrising.net
 cloud-ip.biz
 cloud-ip.cc
 cloud.goog
+cloud.run
 cloud66.ws
 cloudaccess.host
 cloudaccess.net
@@ -3408,6 +3410,7 @@ net.do
 net.dz
 net.ec
 net.eg
+net.er
 net.et
 net.fj
 net.fk
