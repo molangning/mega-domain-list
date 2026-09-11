@@ -1,8 +1,5 @@
 1.azurestaticapps.net
-114.xmit.co
-172.xmit.co
 2.azurestaticapps.net
-214.xmit.co
 3.azurestaticapps.net
 4.azurestaticapps.net
 438.xmit.co
@@ -14,6 +11,7 @@ _udp.run.app
 a.aivencloud.com
 a.metaaiusercontent.com
 a.run.app
+a0.cloudera.site
 a465-9q4k.cloudera.site
 aa.crm.dev
 ab.crm.dev
@@ -180,7 +178,6 @@ ap.leg.br
 ap.ngrok.io
 api.gov.uk
 api.lp.dev
-app.builtwithrocket.new
 app.paywhirl.com
 app.render.com
 appengine.flow.ch
@@ -247,7 +244,6 @@ au.ngrok.io
 au.platformsh.site
 au.snowflake.app
 australia-southeast1.run.app
-australia-southeast2.run.app
 australiacentral-01.azurewebsites.net
 australiacentral2-01.azurewebsites.net
 australiaeast-01.azurewebsites.net
@@ -284,9 +280,7 @@ bainbridge-isl.wa.us
 bandai.fukushima.jp
 bando.ibaraki.jp
 baremetal.scw.cloud
-barking-dagenham.sch.uk
 barnet.sch.uk
-barrani.eth.link
 barsy.co.uk
 barsyonline.co.uk
 bath.sch.uk
@@ -526,6 +520,7 @@ de-2.tst.site
 de-fra-1.linodeobjects.com
 de.eu.org
 de.trendhosting.cloud
+dedicated.oraclecloudapps.com
 del1.vultrobjects.com
 demo.datadetect.com
 demo.jelastic.com
@@ -556,6 +551,7 @@ dudley.sch.uk
 dumgal.sch.uk
 dundeecity.sch.uk
 durham.sch.uk
+dwikipedia.eth.limo
 dyn.addr.tools
 dyn.cosidns.de
 dyn.ddnss.de
@@ -651,6 +647,7 @@ eu-south-2.amazoncognito.com
 eu-south-2.elasticbeanstalk.com
 eu-south-2.on.aws
 eu-south-2.sagemaker.aws
+eu-stockholm-1.oraclecloudapps.com
 eu-west-1.amazonaws.com
 eu-west-1.amazoncognito.com
 eu-west-1.awsapprunner.com
@@ -786,6 +783,7 @@ gb-lon-1.linodeobjects.com
 gcp.snowflake.app
 gcpeuropewest4.snowflake.app
 gcpuscentral1.snowflake.app
+gcpuseast4.snowflake.app
 gehirn.ne.jp
 geisei.kochi.jp
 gen.mi.us
@@ -1105,6 +1103,7 @@ ipfs.inbrowser.link
 ipfs.nftstorage.link
 ipfs.storacha.link
 ipfs.w3s.link
+ipfs2.eth.limo
 ipns.dweb.link
 ipns.inbrowser.link
 iran.liara.run
@@ -1604,6 +1603,7 @@ lib.wi.us
 lib.wy.us
 liber3.eth.limo
 lincs.sch.uk
+lins.nom.br
 liverpool.sch.uk
 lon1.digitaloceanspaces.com
 london.sch.uk
@@ -1994,7 +1994,6 @@ northeurope-01.azurewebsites.net
 northeurope.azurecontainer.io
 northumberland.sch.uk
 norwayeast-01.azurewebsites.net
-norwayeast.azurecontainer.io
 norwaywest-01.azurewebsites.net
 nose.osaka.jp
 nosegawa.nara.jp
@@ -2033,6 +2032,7 @@ odate.akita.jp
 odawara.kanagawa.jp
 odo.replit.dev
 oe.yamagata.jp
+offchainexample.eth.limo
 ofunato.iwate.jp
 oga.akita.jp
 ogaki.gifu.jp
@@ -2119,6 +2119,7 @@ ooshika.nagano.jp
 oow.gov.pl
 opal.ne.jp
 ora.gunma.jp
+origem.nom.br
 origin.cdn77-secure.org
 orkney.sch.uk
 os.fedoraproject.org
@@ -2432,7 +2433,6 @@ sc.leg.br
 scalebook.scw.cloud
 scaleforce.com.cy
 scf.usercontent.goog
-scilly.sch.uk
 scotborders.sch.uk
 sdmntpraueastdr.oaiusercontent.com
 sdmntpraustraliaeast.oaiusercontent.com
@@ -2629,7 +2629,6 @@ soni.nara.jp
 soo.kagoshima.jp
 sosa.chiba.jp
 southafricanorth-01.azurewebsites.net
-southafricanorth.azurecontainer.io
 southafricawest-01.azurewebsites.net
 southamerica-east1.run.app
 southamerica-west1.run.app
@@ -2642,7 +2641,6 @@ southeastasia.azurecontainer.io
 southeastus5-01.azurewebsites.net
 southend.sch.uk
 southindia-01.azurewebsites.net
-southindia.azurecontainer.io
 southwark.sch.uk
 sowa.ibaraki.jp
 sp.gov.br
@@ -2771,6 +2769,7 @@ takinoue.hokkaido.jp
 takko.aomori.jp
 tako.chiba.jp
 taku.saga.jp
+tama.kawasaki.jp
 tama.tokyo.jp
 tamakawa.fukushima.jp
 tamaki.mie.jp
@@ -3017,8 +3016,8 @@ us-gov-west-1.elasticbeanstalk.com
 us-gov-west-1.on.aws
 us-gov-west-1.sagemaker.aws
 us-iad-1.linodeobjects.com
+us-iad-10.linodeobjects.com
 us-lax-1.linodeobjects.com
-us-lax-4.linodeobjects.com
 us-mia-1.linodeobjects.com
 us-ord-1.linodeobjects.com
 us-ord-10.linodeobjects.com
@@ -3080,9 +3079,9 @@ vps.hrsn.net
 vps.mcdir.ru
 vps.myjino.ru
 vs.mythic-beasts.com
-vscode-ddmdpnvovvdbcncv.devinapps.com
-vscode-fudfudesqcuofcuv.devinapps.com
-vscode-pundstatmscncpqs.devinapps.com
+vscode-cfnauvbtsrfcbsar.devinapps.com
+vscode-fndfaebtttttsenn.devinapps.com
+vscode-tqupfmebprrfrasf.devinapps.com
 w-berks.sch.uk
 w-dunbarton.sch.uk
 w-sussex.sch.uk
@@ -3124,6 +3123,7 @@ web.val.run
 webpaas.ovh.net
 website-eu-central-1.linodeobjects.com
 website-us-east-1.linodeobjects.com
+website-us-lax-1.linodeobjects.com
 website.k2.cloud
 website.yandexcloud.net
 weeklylottery.org.uk
