@@ -3631,7 +3631,6 @@ now-dns.org
 now.sh
 nowaruda.pl
 ns.ca
-ns.jm
 nsn.us
 nsupdate.info
 nsw.au
@@ -3987,7 +3986,6 @@ paywhirl.com
 pb.ao
 pc.it
 pc.pl
-pch.pg
 pd.it
 pdns.page
 pe.ca
